@@ -27,7 +27,7 @@ Aroostook,Cross Lake Twp (New Canada),U.S. Senate,,REP,Eric L. Brakey,34
 Aroostook,Crystal,U.S. Senate,,REP,Eric L. Brakey,64
 Aroostook,Cyr Plt,U.S. Senate,,REP,Eric L. Brakey,22
 Aroostook,Dyer Brook,U.S. Senate,,REP,Eric L. Brakey,54
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,U.S. Senate,,REP,Eric L. Brakey,13
+Aroostook,E Twp (Blaine),U.S. Senate,,REP,Eric L. Brakey,13
 Aroostook,Eagle Lake,U.S. Senate,,REP,Eric L. Brakey,124
 Aroostook,Easton,U.S. Senate,,REP,Eric L. Brakey,243
 Aroostook,Fort Fairfield,U.S. Senate,,REP,Eric L. Brakey,497
@@ -73,12 +73,12 @@ Aroostook,Saint John Plt,U.S. Senate,,REP,Eric L. Brakey,37
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,U.S. Senate,,REP,Eric L. Brakey,295
 Aroostook,Smyrna,U.S. Senate,,REP,Eric L. Brakey,72
 Aroostook,Stockholm,U.S. Senate,,REP,Eric L. Brakey,46
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,U.S. Senate,,REP,Eric L. Brakey,4
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,U.S. Senate,,REP,Eric L. Brakey,3
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,U.S. Senate,,REP,Eric L. Brakey,5
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,U.S. Senate,,REP,Eric L. Brakey,3
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,U.S. Senate,,REP,Eric L. Brakey,0
-Aroostook,TD R2 Twp                                                                                                                                         ,U.S. Senate,,REP,Eric L. Brakey,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),U.S. Senate,,REP,Eric L. Brakey,4
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),U.S. Senate,,REP,Eric L. Brakey,3
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),U.S. Senate,,REP,Eric L. Brakey,5
+Aroostook,T17 R3 (Van Buren),U.S. Senate,,REP,Eric L. Brakey,3
+Aroostook,T4 R3 Twp (Island Falls),U.S. Senate,,REP,Eric L. Brakey,0
+Aroostook,TD R2 Twp,U.S. Senate,,REP,Eric L. Brakey,0
 Aroostook,Van Buren,U.S. Senate,,REP,Eric L. Brakey,220
 Aroostook,Wade,U.S. Senate,,REP,Eric L. Brakey,47
 Aroostook,Wallagrass,U.S. Senate,,REP,Eric L. Brakey,41
@@ -173,7 +173,7 @@ Hancock,Stonington,U.S. Senate,,REP,Eric L. Brakey,126
 Hancock,Sullivan,U.S. Senate,,REP,Eric L. Brakey,225
 Hancock,Surry,U.S. Senate,,REP,Eric L. Brakey,321
 Hancock,Swans Island,U.S. Senate,,REP,Eric L. Brakey,103
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,U.S. Senate,,REP,Eric L. Brakey,2
+Hancock,T22 MD Twp (Beddington & Osborn),U.S. Senate,,REP,Eric L. Brakey,2
 Hancock,Tremont,U.S. Senate,,REP,Eric L. Brakey,256
 Hancock,Trenton,U.S. Senate,,REP,Eric L. Brakey,293
 Hancock,Verona Island,U.S. Senate,,REP,Eric L. Brakey,115
@@ -283,7 +283,7 @@ Oxford,Upton,U.S. Senate,,REP,Eric L. Brakey,32
 Oxford,Waterford,U.S. Senate,,REP,Eric L. Brakey,318
 Oxford,West Paris,U.S. Senate,,REP,Eric L. Brakey,309
 Oxford,Woodstock,U.S. Senate,,REP,Eric L. Brakey,296
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",U.S. Senate,,REP,Eric L. Brakey,35
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",U.S. Senate,,REP,Eric L. Brakey,35
 Penobscot,Alton,U.S. Senate,,REP,Eric L. Brakey,170
 Penobscot,Bangor,U.S. Senate,,REP,Eric L. Brakey,3844
 Penobscot,Bradford,U.S. Senate,,REP,Eric L. Brakey,301
@@ -307,7 +307,7 @@ Penobscot,Enfield,U.S. Senate,,REP,Eric L. Brakey,313
 Penobscot,Etna,U.S. Senate,,REP,Eric L. Brakey,290
 Penobscot,Exeter,U.S. Senate,,REP,Eric L. Brakey,204
 Penobscot,Grand Falls Twp (Burlington),U.S. Senate,,REP,Eric L. Brakey,7
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,U.S. Senate,,REP,Eric L. Brakey,14
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),U.S. Senate,,REP,Eric L. Brakey,14
 Penobscot,Garland,U.S. Senate,,REP,Eric L. Brakey,246
 Penobscot,Glenburn,U.S. Senate,,REP,Eric L. Brakey,981
 Penobscot,Greenbush,U.S. Senate,,REP,Eric L. Brakey,306
@@ -337,7 +337,7 @@ Penobscot,Millinocket,U.S. Senate,,REP,Eric L. Brakey,706
 Penobscot,Mount Chase,U.S. Senate,,REP,Eric L. Brakey,40
 Penobscot,Newburgh,U.S. Senate,,REP,Eric L. Brakey,408
 Penobscot,Newport,U.S. Senate,,REP,Eric L. Brakey,676
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,U.S. Senate,,REP,Eric L. Brakey,1017
+Penobscot,Old Town (and Argyle Twp),U.S. Senate,,REP,Eric L. Brakey,1017
 Penobscot,Orneville Twp (Lagrange),U.S. Senate,,REP,Eric L. Brakey,1
 Penobscot,Orono,U.S. Senate,,REP,Eric L. Brakey,804
 Penobscot,Orrington,U.S. Senate,,REP,Eric L. Brakey,962
@@ -350,8 +350,8 @@ Penobscot,Seboeis Plt,U.S. Senate,,REP,Eric L. Brakey,10
 Penobscot,Springfield,U.S. Senate,,REP,Eric L. Brakey,81
 Penobscot,Stacyville,U.S. Senate,,REP,Eric L. Brakey,86
 Penobscot,Stetson,U.S. Senate,,REP,Eric L. Brakey,320
-Penobscot,T3 ND Twp                                                                                                                                          ,U.S. Senate,,REP,Eric L. Brakey,2
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",U.S. Senate,,REP,Eric L. Brakey,6
+Penobscot,T3 ND Twp,U.S. Senate,,REP,Eric L. Brakey,2
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",U.S. Senate,,REP,Eric L. Brakey,6
 Penobscot,Veazie,U.S. Senate,,REP,Eric L. Brakey,338
 Penobscot,Webster Plt,U.S. Senate,,REP,Eric L. Brakey,16
 Penobscot,Winn,U.S. Senate,,REP,Eric L. Brakey,81
@@ -363,7 +363,7 @@ Piscataquis,Beaver Cove,U.S. Senate,,REP,Eric L. Brakey,37
 Piscataquis,Bowerbank,U.S. Senate,,REP,Eric L. Brakey,53
 Piscataquis,Brownville,U.S. Senate,,REP,Eric L. Brakey,228
 Piscataquis,Dover-Foxcroft,U.S. Senate,,REP,Eric L. Brakey,761
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,U.S. Senate,,REP,Eric L. Brakey,5
+Piscataquis,Elliotsville Twp (Monson),U.S. Senate,,REP,Eric L. Brakey,5
 Piscataquis,Greenville,U.S. Senate,,REP,Eric L. Brakey,428
 Piscataquis,Guilford,U.S. Senate,,REP,Eric L. Brakey,245
 Piscataquis,Kingsbury Plt,U.S. Senate,,REP,Eric L. Brakey,10
@@ -404,7 +404,7 @@ Somerset,Harmony,U.S. Senate,,REP,Eric L. Brakey,200
 Somerset,Hartland,U.S. Senate,,REP,Eric L. Brakey,371
 Somerset,Highland Plt,U.S. Senate,,REP,Eric L. Brakey,56
 Somerset,Jackman,U.S. Senate,,REP,Eric L. Brakey,233
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,U.S. Senate,,REP,Eric L. Brakey,13
+Somerset,Lexington/Spring Lake Twps,U.S. Senate,,REP,Eric L. Brakey,13
 Somerset,Madison,U.S. Senate,,REP,Eric L. Brakey,832
 Somerset,Mercer,U.S. Senate,,REP,Eric L. Brakey,162
 Somerset,Moose River,U.S. Senate,,REP,Eric L. Brakey,58
@@ -451,7 +451,7 @@ Waldo,Waldo,U.S. Senate,,REP,Eric L. Brakey,158
 Waldo,Winterport,U.S. Senate,,REP,Eric L. Brakey,824
 Washington,Addison,U.S. Senate,,REP,Eric L. Brakey,273
 Washington,Alexander,U.S. Senate,,REP,Eric L. Brakey,131
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,U.S. Senate,,REP,Eric L. Brakey,26
+Washington,Berry/Cathance/Marion Twps (East Machias),U.S. Senate,,REP,Eric L. Brakey,26
 Washington,Baileyville,U.S. Senate,,REP,Eric L. Brakey,225
 Washington,Baring Plt,U.S. Senate,,REP,Eric L. Brakey,33
 Washington,Beals,U.S. Senate,,REP,Eric L. Brakey,103
@@ -489,9 +489,9 @@ Washington,Princeton,U.S. Senate,,REP,Eric L. Brakey,189
 Washington,Robbinston,U.S. Senate,,REP,Eric L. Brakey,102
 Washington,Roque Bluffs,U.S. Senate,,REP,Eric L. Brakey,47
 Washington,Steuben,U.S. Senate,,REP,Eric L. Brakey,226
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",U.S. Senate,,REP,Eric L. Brakey,8
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,U.S. Senate,,REP,Eric L. Brakey,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,U.S. Senate,,REP,Eric L. Brakey,2
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",U.S. Senate,,REP,Eric L. Brakey,8
+Washington,T26 ED BPP Twp (Wesley),U.S. Senate,,REP,Eric L. Brakey,0
+Washington,T7 SD Twp (Steuben),U.S. Senate,,REP,Eric L. Brakey,2
 Washington,Talmadge,U.S. Senate,,REP,Eric L. Brakey,16
 Washington,Topsfield,U.S. Senate,,REP,Eric L. Brakey,61
 Washington,Vanceboro,U.S. Senate,,REP,Eric L. Brakey,31
@@ -557,7 +557,7 @@ Aroostook,Cross Lake Twp (New Canada),U.S. Senate,,IND,Angus S. King Jr.,63
 Aroostook,Crystal,U.S. Senate,,IND,Angus S. King Jr.,41
 Aroostook,Cyr Plt,U.S. Senate,,IND,Angus S. King Jr.,25
 Aroostook,Dyer Brook,U.S. Senate,,IND,Angus S. King Jr.,49
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,U.S. Senate,,IND,Angus S. King Jr.,17
+Aroostook,E Twp (Blaine),U.S. Senate,,IND,Angus S. King Jr.,17
 Aroostook,Eagle Lake,U.S. Senate,,IND,Angus S. King Jr.,201
 Aroostook,Easton,U.S. Senate,,IND,Angus S. King Jr.,304
 Aroostook,Fort Fairfield,U.S. Senate,,IND,Angus S. King Jr.,761
@@ -603,12 +603,12 @@ Aroostook,Saint John Plt,U.S. Senate,,IND,Angus S. King Jr.,74
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,U.S. Senate,,IND,Angus S. King Jr.,165
 Aroostook,Smyrna,U.S. Senate,,IND,Angus S. King Jr.,35
 Aroostook,Stockholm,U.S. Senate,,IND,Angus S. King Jr.,77
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,U.S. Senate,,IND,Angus S. King Jr.,9
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,U.S. Senate,,IND,Angus S. King Jr.,0
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,U.S. Senate,,IND,Angus S. King Jr.,1
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,U.S. Senate,,IND,Angus S. King Jr.,10
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,U.S. Senate,,IND,Angus S. King Jr.,1
-Aroostook,TD R2 Twp                                                                                                                                         ,U.S. Senate,,IND,Angus S. King Jr.,3
+Aroostook,T11 R4 WELS Twp (Castle Hill),U.S. Senate,,IND,Angus S. King Jr.,9
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),U.S. Senate,,IND,Angus S. King Jr.,0
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),U.S. Senate,,IND,Angus S. King Jr.,1
+Aroostook,T17 R3 (Van Buren),U.S. Senate,,IND,Angus S. King Jr.,10
+Aroostook,T4 R3 Twp (Island Falls),U.S. Senate,,IND,Angus S. King Jr.,1
+Aroostook,TD R2 Twp,U.S. Senate,,IND,Angus S. King Jr.,3
 Aroostook,Van Buren,U.S. Senate,,IND,Angus S. King Jr.,413
 Aroostook,Wade,U.S. Senate,,IND,Angus S. King Jr.,61
 Aroostook,Wallagrass,U.S. Senate,,IND,Angus S. King Jr.,177
@@ -703,7 +703,7 @@ Hancock,Stonington,U.S. Senate,,IND,Angus S. King Jr.,325
 Hancock,Sullivan,U.S. Senate,,IND,Angus S. King Jr.,283
 Hancock,Surry,U.S. Senate,,IND,Angus S. King Jr.,483
 Hancock,Swans Island,U.S. Senate,,IND,Angus S. King Jr.,88
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,U.S. Senate,,IND,Angus S. King Jr.,2
+Hancock,T22 MD Twp (Beddington & Osborn),U.S. Senate,,IND,Angus S. King Jr.,2
 Hancock,Tremont,U.S. Senate,,IND,Angus S. King Jr.,463
 Hancock,Trenton,U.S. Senate,,IND,Angus S. King Jr.,377
 Hancock,Verona Island,U.S. Senate,,IND,Angus S. King Jr.,140
@@ -813,7 +813,7 @@ Oxford,Upton,U.S. Senate,,IND,Angus S. King Jr.,12
 Oxford,Waterford,U.S. Senate,,IND,Angus S. King Jr.,424
 Oxford,West Paris,U.S. Senate,,IND,Angus S. King Jr.,368
 Oxford,Woodstock,U.S. Senate,,IND,Angus S. King Jr.,286
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",U.S. Senate,,IND,Angus S. King Jr.,28
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",U.S. Senate,,IND,Angus S. King Jr.,28
 Penobscot,Alton,U.S. Senate,,IND,Angus S. King Jr.,181
 Penobscot,Bangor,U.S. Senate,,IND,Angus S. King Jr.,7049
 Penobscot,Bradford,U.S. Senate,,IND,Angus S. King Jr.,203
@@ -837,7 +837,7 @@ Penobscot,Enfield,U.S. Senate,,IND,Angus S. King Jr.,293
 Penobscot,Etna,U.S. Senate,,IND,Angus S. King Jr.,210
 Penobscot,Exeter,U.S. Senate,,IND,Angus S. King Jr.,214
 Penobscot,Grand Falls Twp (Burlington),U.S. Senate,,IND,Angus S. King Jr.,5
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,U.S. Senate,,IND,Angus S. King Jr.,8
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),U.S. Senate,,IND,Angus S. King Jr.,8
 Penobscot,Garland,U.S. Senate,,IND,Angus S. King Jr.,173
 Penobscot,Glenburn,U.S. Senate,,IND,Angus S. King Jr.,908
 Penobscot,Greenbush,U.S. Senate,,IND,Angus S. King Jr.,184
@@ -867,7 +867,7 @@ Penobscot,Millinocket,U.S. Senate,,IND,Angus S. King Jr.,1032
 Penobscot,Mount Chase,U.S. Senate,,IND,Angus S. King Jr.,43
 Penobscot,Newburgh,U.S. Senate,,IND,Angus S. King Jr.,362
 Penobscot,Newport,U.S. Senate,,IND,Angus S. King Jr.,580
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,U.S. Senate,,IND,Angus S. King Jr.,1756
+Penobscot,Old Town (and Argyle Twp),U.S. Senate,,IND,Angus S. King Jr.,1756
 Penobscot,Orneville Twp (Lagrange),U.S. Senate,,IND,Angus S. King Jr.,0
 Penobscot,Orono,U.S. Senate,,IND,Angus S. King Jr.,2572
 Penobscot,Orrington,U.S. Senate,,IND,Angus S. King Jr.,912
@@ -880,8 +880,8 @@ Penobscot,Seboeis Plt,U.S. Senate,,IND,Angus S. King Jr.,17
 Penobscot,Springfield,U.S. Senate,,IND,Angus S. King Jr.,40
 Penobscot,Stacyville,U.S. Senate,,IND,Angus S. King Jr.,56
 Penobscot,Stetson,U.S. Senate,,IND,Angus S. King Jr.,219
-Penobscot,T3 ND Twp                                                                                                                                          ,U.S. Senate,,IND,Angus S. King Jr.,3
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",U.S. Senate,,IND,Angus S. King Jr.,5
+Penobscot,T3 ND Twp,U.S. Senate,,IND,Angus S. King Jr.,3
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",U.S. Senate,,IND,Angus S. King Jr.,5
 Penobscot,Veazie,U.S. Senate,,IND,Angus S. King Jr.,559
 Penobscot,Webster Plt,U.S. Senate,,IND,Angus S. King Jr.,10
 Penobscot,Winn,U.S. Senate,,IND,Angus S. King Jr.,62
@@ -893,7 +893,7 @@ Piscataquis,Beaver Cove,U.S. Senate,,IND,Angus S. King Jr.,57
 Piscataquis,Bowerbank,U.S. Senate,,IND,Angus S. King Jr.,33
 Piscataquis,Brownville,U.S. Senate,,IND,Angus S. King Jr.,202
 Piscataquis,Dover-Foxcroft,U.S. Senate,,IND,Angus S. King Jr.,843
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,U.S. Senate,,IND,Angus S. King Jr.,5
+Piscataquis,Elliotsville Twp (Monson),U.S. Senate,,IND,Angus S. King Jr.,5
 Piscataquis,Greenville,U.S. Senate,,IND,Angus S. King Jr.,460
 Piscataquis,Guilford,U.S. Senate,,IND,Angus S. King Jr.,257
 Piscataquis,Kingsbury Plt,U.S. Senate,,IND,Angus S. King Jr.,12
@@ -934,7 +934,7 @@ Somerset,Harmony,U.S. Senate,,IND,Angus S. King Jr.,154
 Somerset,Hartland,U.S. Senate,,IND,Angus S. King Jr.,259
 Somerset,Highland Plt,U.S. Senate,,IND,Angus S. King Jr.,35
 Somerset,Jackman,U.S. Senate,,IND,Angus S. King Jr.,142
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,U.S. Senate,,IND,Angus S. King Jr.,9
+Somerset,Lexington/Spring Lake Twps,U.S. Senate,,IND,Angus S. King Jr.,9
 Somerset,Madison,U.S. Senate,,IND,Angus S. King Jr.,892
 Somerset,Mercer,U.S. Senate,,IND,Angus S. King Jr.,181
 Somerset,Moose River,U.S. Senate,,IND,Angus S. King Jr.,23
@@ -981,7 +981,7 @@ Waldo,Waldo,U.S. Senate,,IND,Angus S. King Jr.,221
 Waldo,Winterport,U.S. Senate,,IND,Angus S. King Jr.,905
 Washington,Addison,U.S. Senate,,IND,Angus S. King Jr.,241
 Washington,Alexander,U.S. Senate,,IND,Angus S. King Jr.,91
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,U.S. Senate,,IND,Angus S. King Jr.,15
+Washington,Berry/Cathance/Marion Twps (East Machias),U.S. Senate,,IND,Angus S. King Jr.,15
 Washington,Baileyville,U.S. Senate,,IND,Angus S. King Jr.,252
 Washington,Baring Plt,U.S. Senate,,IND,Angus S. King Jr.,43
 Washington,Beals,U.S. Senate,,IND,Angus S. King Jr.,92
@@ -1019,9 +1019,9 @@ Washington,Princeton,U.S. Senate,,IND,Angus S. King Jr.,140
 Washington,Robbinston,U.S. Senate,,IND,Angus S. King Jr.,152
 Washington,Roque Bluffs,U.S. Senate,,IND,Angus S. King Jr.,97
 Washington,Steuben,U.S. Senate,,IND,Angus S. King Jr.,218
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",U.S. Senate,,IND,Angus S. King Jr.,2
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,U.S. Senate,,IND,Angus S. King Jr.,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,U.S. Senate,,IND,Angus S. King Jr.,1
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",U.S. Senate,,IND,Angus S. King Jr.,2
+Washington,T26 ED BPP Twp (Wesley),U.S. Senate,,IND,Angus S. King Jr.,0
+Washington,T7 SD Twp (Steuben),U.S. Senate,,IND,Angus S. King Jr.,1
 Washington,Talmadge,U.S. Senate,,IND,Angus S. King Jr.,15
 Washington,Topsfield,U.S. Senate,,IND,Angus S. King Jr.,36
 Washington,Vanceboro,U.S. Senate,,IND,Angus S. King Jr.,38
@@ -1087,7 +1087,7 @@ Aroostook,Cross Lake Twp (New Canada),U.S. Senate,,DEM,Zak Ringelstein,5
 Aroostook,Crystal,U.S. Senate,,DEM,Zak Ringelstein,4
 Aroostook,Cyr Plt,U.S. Senate,,DEM,Zak Ringelstein,2
 Aroostook,Dyer Brook,U.S. Senate,,DEM,Zak Ringelstein,5
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,U.S. Senate,,DEM,Zak Ringelstein,2
+Aroostook,E Twp (Blaine),U.S. Senate,,DEM,Zak Ringelstein,2
 Aroostook,Eagle Lake,U.S. Senate,,DEM,Zak Ringelstein,36
 Aroostook,Easton,U.S. Senate,,DEM,Zak Ringelstein,28
 Aroostook,Fort Fairfield,U.S. Senate,,DEM,Zak Ringelstein,87
@@ -1133,12 +1133,12 @@ Aroostook,Saint John Plt,U.S. Senate,,DEM,Zak Ringelstein,14
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,U.S. Senate,,DEM,Zak Ringelstein,17
 Aroostook,Smyrna,U.S. Senate,,DEM,Zak Ringelstein,11
 Aroostook,Stockholm,U.S. Senate,,DEM,Zak Ringelstein,8
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,U.S. Senate,,DEM,Zak Ringelstein,1
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,U.S. Senate,,DEM,Zak Ringelstein,0
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,U.S. Senate,,DEM,Zak Ringelstein,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,U.S. Senate,,DEM,Zak Ringelstein,2
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,U.S. Senate,,DEM,Zak Ringelstein,0
-Aroostook,TD R2 Twp                                                                                                                                         ,U.S. Senate,,DEM,Zak Ringelstein,2
+Aroostook,T11 R4 WELS Twp (Castle Hill),U.S. Senate,,DEM,Zak Ringelstein,1
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),U.S. Senate,,DEM,Zak Ringelstein,0
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),U.S. Senate,,DEM,Zak Ringelstein,0
+Aroostook,T17 R3 (Van Buren),U.S. Senate,,DEM,Zak Ringelstein,2
+Aroostook,T4 R3 Twp (Island Falls),U.S. Senate,,DEM,Zak Ringelstein,0
+Aroostook,TD R2 Twp,U.S. Senate,,DEM,Zak Ringelstein,2
 Aroostook,Van Buren,U.S. Senate,,DEM,Zak Ringelstein,74
 Aroostook,Wade,U.S. Senate,,DEM,Zak Ringelstein,0
 Aroostook,Wallagrass,U.S. Senate,,DEM,Zak Ringelstein,15
@@ -1233,7 +1233,7 @@ Hancock,Stonington,U.S. Senate,,DEM,Zak Ringelstein,51
 Hancock,Sullivan,U.S. Senate,,DEM,Zak Ringelstein,54
 Hancock,Surry,U.S. Senate,,DEM,Zak Ringelstein,95
 Hancock,Swans Island,U.S. Senate,,DEM,Zak Ringelstein,19
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,U.S. Senate,,DEM,Zak Ringelstein,1
+Hancock,T22 MD Twp (Beddington & Osborn),U.S. Senate,,DEM,Zak Ringelstein,1
 Hancock,Tremont,U.S. Senate,,DEM,Zak Ringelstein,116
 Hancock,Trenton,U.S. Senate,,DEM,Zak Ringelstein,95
 Hancock,Verona Island,U.S. Senate,,DEM,Zak Ringelstein,24
@@ -1343,7 +1343,7 @@ Oxford,Upton,U.S. Senate,,DEM,Zak Ringelstein,2
 Oxford,Waterford,U.S. Senate,,DEM,Zak Ringelstein,54
 Oxford,West Paris,U.S. Senate,,DEM,Zak Ringelstein,45
 Oxford,Woodstock,U.S. Senate,,DEM,Zak Ringelstein,51
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",U.S. Senate,,DEM,Zak Ringelstein,5
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",U.S. Senate,,DEM,Zak Ringelstein,5
 Penobscot,Alton,U.S. Senate,,DEM,Zak Ringelstein,13
 Penobscot,Bangor,U.S. Senate,,DEM,Zak Ringelstein,1527
 Penobscot,Bradford,U.S. Senate,,DEM,Zak Ringelstein,19
@@ -1367,7 +1367,7 @@ Penobscot,Enfield,U.S. Senate,,DEM,Zak Ringelstein,40
 Penobscot,Etna,U.S. Senate,,DEM,Zak Ringelstein,29
 Penobscot,Exeter,U.S. Senate,,DEM,Zak Ringelstein,24
 Penobscot,Grand Falls Twp (Burlington),U.S. Senate,,DEM,Zak Ringelstein,0
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,U.S. Senate,,DEM,Zak Ringelstein,1
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),U.S. Senate,,DEM,Zak Ringelstein,1
 Penobscot,Garland,U.S. Senate,,DEM,Zak Ringelstein,35
 Penobscot,Glenburn,U.S. Senate,,DEM,Zak Ringelstein,156
 Penobscot,Greenbush,U.S. Senate,,DEM,Zak Ringelstein,32
@@ -1397,7 +1397,7 @@ Penobscot,Millinocket,U.S. Senate,,DEM,Zak Ringelstein,101
 Penobscot,Mount Chase,U.S. Senate,,DEM,Zak Ringelstein,7
 Penobscot,Newburgh,U.S. Senate,,DEM,Zak Ringelstein,41
 Penobscot,Newport,U.S. Senate,,DEM,Zak Ringelstein,71
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,U.S. Senate,,DEM,Zak Ringelstein,368
+Penobscot,Old Town (and Argyle Twp),U.S. Senate,,DEM,Zak Ringelstein,368
 Penobscot,Orneville Twp (Lagrange),U.S. Senate,,DEM,Zak Ringelstein,0
 Penobscot,Orono,U.S. Senate,,DEM,Zak Ringelstein,974
 Penobscot,Orrington,U.S. Senate,,DEM,Zak Ringelstein,131
@@ -1410,8 +1410,8 @@ Penobscot,Seboeis Plt,U.S. Senate,,DEM,Zak Ringelstein,3
 Penobscot,Springfield,U.S. Senate,,DEM,Zak Ringelstein,3
 Penobscot,Stacyville,U.S. Senate,,DEM,Zak Ringelstein,3
 Penobscot,Stetson,U.S. Senate,,DEM,Zak Ringelstein,36
-Penobscot,T3 ND Twp                                                                                                                                          ,U.S. Senate,,DEM,Zak Ringelstein,0
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",U.S. Senate,,DEM,Zak Ringelstein,0
+Penobscot,T3 ND Twp,U.S. Senate,,DEM,Zak Ringelstein,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",U.S. Senate,,DEM,Zak Ringelstein,0
 Penobscot,Veazie,U.S. Senate,,DEM,Zak Ringelstein,92
 Penobscot,Webster Plt,U.S. Senate,,DEM,Zak Ringelstein,2
 Penobscot,Winn,U.S. Senate,,DEM,Zak Ringelstein,8
@@ -1423,7 +1423,7 @@ Piscataquis,Beaver Cove,U.S. Senate,,DEM,Zak Ringelstein,5
 Piscataquis,Bowerbank,U.S. Senate,,DEM,Zak Ringelstein,6
 Piscataquis,Brownville,U.S. Senate,,DEM,Zak Ringelstein,39
 Piscataquis,Dover-Foxcroft,U.S. Senate,,DEM,Zak Ringelstein,159
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,U.S. Senate,,DEM,Zak Ringelstein,5
+Piscataquis,Elliotsville Twp (Monson),U.S. Senate,,DEM,Zak Ringelstein,5
 Piscataquis,Greenville,U.S. Senate,,DEM,Zak Ringelstein,59
 Piscataquis,Guilford,U.S. Senate,,DEM,Zak Ringelstein,38
 Piscataquis,Kingsbury Plt,U.S. Senate,,DEM,Zak Ringelstein,0
@@ -1464,7 +1464,7 @@ Somerset,Harmony,U.S. Senate,,DEM,Zak Ringelstein,21
 Somerset,Hartland,U.S. Senate,,DEM,Zak Ringelstein,47
 Somerset,Highland Plt,U.S. Senate,,DEM,Zak Ringelstein,9
 Somerset,Jackman,U.S. Senate,,DEM,Zak Ringelstein,29
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,U.S. Senate,,DEM,Zak Ringelstein,2
+Somerset,Lexington/Spring Lake Twps,U.S. Senate,,DEM,Zak Ringelstein,2
 Somerset,Madison,U.S. Senate,,DEM,Zak Ringelstein,129
 Somerset,Mercer,U.S. Senate,,DEM,Zak Ringelstein,23
 Somerset,Moose River,U.S. Senate,,DEM,Zak Ringelstein,2
@@ -1511,7 +1511,7 @@ Waldo,Waldo,U.S. Senate,,DEM,Zak Ringelstein,29
 Waldo,Winterport,U.S. Senate,,DEM,Zak Ringelstein,114
 Washington,Addison,U.S. Senate,,DEM,Zak Ringelstein,30
 Washington,Alexander,U.S. Senate,,DEM,Zak Ringelstein,15
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,U.S. Senate,,DEM,Zak Ringelstein,4
+Washington,Berry/Cathance/Marion Twps (East Machias),U.S. Senate,,DEM,Zak Ringelstein,4
 Washington,Baileyville,U.S. Senate,,DEM,Zak Ringelstein,33
 Washington,Baring Plt,U.S. Senate,,DEM,Zak Ringelstein,10
 Washington,Beals,U.S. Senate,,DEM,Zak Ringelstein,17
@@ -1549,9 +1549,9 @@ Washington,Princeton,U.S. Senate,,DEM,Zak Ringelstein,17
 Washington,Robbinston,U.S. Senate,,DEM,Zak Ringelstein,16
 Washington,Roque Bluffs,U.S. Senate,,DEM,Zak Ringelstein,9
 Washington,Steuben,U.S. Senate,,DEM,Zak Ringelstein,38
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",U.S. Senate,,DEM,Zak Ringelstein,0
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,U.S. Senate,,DEM,Zak Ringelstein,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,U.S. Senate,,DEM,Zak Ringelstein,2
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",U.S. Senate,,DEM,Zak Ringelstein,0
+Washington,T26 ED BPP Twp (Wesley),U.S. Senate,,DEM,Zak Ringelstein,0
+Washington,T7 SD Twp (Steuben),U.S. Senate,,DEM,Zak Ringelstein,2
 Washington,Talmadge,U.S. Senate,,DEM,Zak Ringelstein,1
 Washington,Topsfield,U.S. Senate,,DEM,Zak Ringelstein,2
 Washington,Vanceboro,U.S. Senate,,DEM,Zak Ringelstein,4
@@ -1617,7 +1617,7 @@ Aroostook,Cross Lake Twp (New Canada),U.S. Senate,,,Write-ins,0
 Aroostook,Crystal,U.S. Senate,,,Write-ins,0
 Aroostook,Cyr Plt,U.S. Senate,,,Write-ins,0
 Aroostook,Dyer Brook,U.S. Senate,,,Write-ins,0
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,U.S. Senate,,,Write-ins,0
+Aroostook,E Twp (Blaine),U.S. Senate,,,Write-ins,0
 Aroostook,Eagle Lake,U.S. Senate,,,Write-ins,0
 Aroostook,Easton,U.S. Senate,,,Write-ins,0
 Aroostook,Fort Fairfield,U.S. Senate,,,Write-ins,0
@@ -1663,12 +1663,12 @@ Aroostook,Saint John Plt,U.S. Senate,,,Write-ins,0
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,U.S. Senate,,,Write-ins,0
 Aroostook,Smyrna,U.S. Senate,,,Write-ins,0
 Aroostook,Stockholm,U.S. Senate,,,Write-ins,0
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,U.S. Senate,,,Write-ins,0
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,U.S. Senate,,,Write-ins,0
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,U.S. Senate,,,Write-ins,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,U.S. Senate,,,Write-ins,0
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,U.S. Senate,,,Write-ins,0
-Aroostook,TD R2 Twp                                                                                                                                         ,U.S. Senate,,,Write-ins,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),U.S. Senate,,,Write-ins,0
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),U.S. Senate,,,Write-ins,0
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),U.S. Senate,,,Write-ins,0
+Aroostook,T17 R3 (Van Buren),U.S. Senate,,,Write-ins,0
+Aroostook,T4 R3 Twp (Island Falls),U.S. Senate,,,Write-ins,0
+Aroostook,TD R2 Twp,U.S. Senate,,,Write-ins,0
 Aroostook,Van Buren,U.S. Senate,,,Write-ins,0
 Aroostook,Wade,U.S. Senate,,,Write-ins,0
 Aroostook,Wallagrass,U.S. Senate,,,Write-ins,1
@@ -1763,7 +1763,7 @@ Hancock,Stonington,U.S. Senate,,,Write-ins,0
 Hancock,Sullivan,U.S. Senate,,,Write-ins,0
 Hancock,Surry,U.S. Senate,,,Write-ins,0
 Hancock,Swans Island,U.S. Senate,,,Write-ins,0
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,U.S. Senate,,,Write-ins,0
+Hancock,T22 MD Twp (Beddington & Osborn),U.S. Senate,,,Write-ins,0
 Hancock,Tremont,U.S. Senate,,,Write-ins,0
 Hancock,Trenton,U.S. Senate,,,Write-ins,0
 Hancock,Verona Island,U.S. Senate,,,Write-ins,0
@@ -1873,7 +1873,7 @@ Oxford,Upton,U.S. Senate,,,Write-ins,0
 Oxford,Waterford,U.S. Senate,,,Write-ins,0
 Oxford,West Paris,U.S. Senate,,,Write-ins,0
 Oxford,Woodstock,U.S. Senate,,,Write-ins,0
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",U.S. Senate,,,Write-ins,0
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",U.S. Senate,,,Write-ins,0
 Penobscot,Alton,U.S. Senate,,,Write-ins,0
 Penobscot,Bangor,U.S. Senate,,,Write-ins,0
 Penobscot,Bradford,U.S. Senate,,,Write-ins,0
@@ -1897,7 +1897,7 @@ Penobscot,Enfield,U.S. Senate,,,Write-ins,0
 Penobscot,Etna,U.S. Senate,,,Write-ins,0
 Penobscot,Exeter,U.S. Senate,,,Write-ins,0
 Penobscot,Grand Falls Twp (Burlington),U.S. Senate,,,Write-ins,0
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,U.S. Senate,,,Write-ins,0
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),U.S. Senate,,,Write-ins,0
 Penobscot,Garland,U.S. Senate,,,Write-ins,1
 Penobscot,Glenburn,U.S. Senate,,,Write-ins,0
 Penobscot,Greenbush,U.S. Senate,,,Write-ins,1
@@ -1927,7 +1927,7 @@ Penobscot,Millinocket,U.S. Senate,,,Write-ins,0
 Penobscot,Mount Chase,U.S. Senate,,,Write-ins,0
 Penobscot,Newburgh,U.S. Senate,,,Write-ins,1
 Penobscot,Newport,U.S. Senate,,,Write-ins,0
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,U.S. Senate,,,Write-ins,0
+Penobscot,Old Town (and Argyle Twp),U.S. Senate,,,Write-ins,0
 Penobscot,Orneville Twp (Lagrange),U.S. Senate,,,Write-ins,0
 Penobscot,Orono,U.S. Senate,,,Write-ins,0
 Penobscot,Orrington,U.S. Senate,,,Write-ins,0
@@ -1940,8 +1940,8 @@ Penobscot,Seboeis Plt,U.S. Senate,,,Write-ins,0
 Penobscot,Springfield,U.S. Senate,,,Write-ins,0
 Penobscot,Stacyville,U.S. Senate,,,Write-ins,0
 Penobscot,Stetson,U.S. Senate,,,Write-ins,0
-Penobscot,T3 ND Twp                                                                                                                                          ,U.S. Senate,,,Write-ins,0
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",U.S. Senate,,,Write-ins,0
+Penobscot,T3 ND Twp,U.S. Senate,,,Write-ins,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",U.S. Senate,,,Write-ins,0
 Penobscot,Veazie,U.S. Senate,,,Write-ins,0
 Penobscot,Webster Plt,U.S. Senate,,,Write-ins,0
 Penobscot,Winn,U.S. Senate,,,Write-ins,0
@@ -1953,7 +1953,7 @@ Piscataquis,Beaver Cove,U.S. Senate,,,Write-ins,0
 Piscataquis,Bowerbank,U.S. Senate,,,Write-ins,0
 Piscataquis,Brownville,U.S. Senate,,,Write-ins,0
 Piscataquis,Dover-Foxcroft,U.S. Senate,,,Write-ins,0
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,U.S. Senate,,,Write-ins,0
+Piscataquis,Elliotsville Twp (Monson),U.S. Senate,,,Write-ins,0
 Piscataquis,Greenville,U.S. Senate,,,Write-ins,0
 Piscataquis,Guilford,U.S. Senate,,,Write-ins,2
 Piscataquis,Kingsbury Plt,U.S. Senate,,,Write-ins,0
@@ -1994,7 +1994,7 @@ Somerset,Harmony,U.S. Senate,,,Write-ins,0
 Somerset,Hartland,U.S. Senate,,,Write-ins,0
 Somerset,Highland Plt,U.S. Senate,,,Write-ins,0
 Somerset,Jackman,U.S. Senate,,,Write-ins,2
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,U.S. Senate,,,Write-ins,0
+Somerset,Lexington/Spring Lake Twps,U.S. Senate,,,Write-ins,0
 Somerset,Madison,U.S. Senate,,,Write-ins,0
 Somerset,Mercer,U.S. Senate,,,Write-ins,0
 Somerset,Moose River,U.S. Senate,,,Write-ins,0
@@ -2041,7 +2041,7 @@ Waldo,Waldo,U.S. Senate,,,Write-ins,0
 Waldo,Winterport,U.S. Senate,,,Write-ins,0
 Washington,Addison,U.S. Senate,,,Write-ins,0
 Washington,Alexander,U.S. Senate,,,Write-ins,0
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,U.S. Senate,,,Write-ins,0
+Washington,Berry/Cathance/Marion Twps (East Machias),U.S. Senate,,,Write-ins,0
 Washington,Baileyville,U.S. Senate,,,Write-ins,0
 Washington,Baring Plt,U.S. Senate,,,Write-ins,0
 Washington,Beals,U.S. Senate,,,Write-ins,0
@@ -2079,9 +2079,9 @@ Washington,Princeton,U.S. Senate,,,Write-ins,0
 Washington,Robbinston,U.S. Senate,,,Write-ins,0
 Washington,Roque Bluffs,U.S. Senate,,,Write-ins,0
 Washington,Steuben,U.S. Senate,,,Write-ins,0
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",U.S. Senate,,,Write-ins,0
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,U.S. Senate,,,Write-ins,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,U.S. Senate,,,Write-ins,0
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",U.S. Senate,,,Write-ins,0
+Washington,T26 ED BPP Twp (Wesley),U.S. Senate,,,Write-ins,0
+Washington,T7 SD Twp (Steuben),U.S. Senate,,,Write-ins,0
 Washington,Talmadge,U.S. Senate,,,Write-ins,0
 Washington,Topsfield,U.S. Senate,,,Write-ins,0
 Washington,Vanceboro,U.S. Senate,,,Write-ins,0
@@ -2147,7 +2147,7 @@ Aroostook,Cross Lake Twp (New Canada),U.S. Senate,,,Blanks,0
 Aroostook,Crystal,U.S. Senate,,,Blanks,3
 Aroostook,Cyr Plt,U.S. Senate,,,Blanks,0
 Aroostook,Dyer Brook,U.S. Senate,,,Blanks,2
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,U.S. Senate,,,Blanks,0
+Aroostook,E Twp (Blaine),U.S. Senate,,,Blanks,0
 Aroostook,Eagle Lake,U.S. Senate,,,Blanks,12
 Aroostook,Easton,U.S. Senate,,,Blanks,6
 Aroostook,Fort Fairfield,U.S. Senate,,,Blanks,41
@@ -2193,12 +2193,12 @@ Aroostook,Saint John Plt,U.S. Senate,,,Blanks,4
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,U.S. Senate,,,Blanks,15
 Aroostook,Smyrna,U.S. Senate,,,Blanks,5
 Aroostook,Stockholm,U.S. Senate,,,Blanks,2
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,U.S. Senate,,,Blanks,1
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,U.S. Senate,,,Blanks,0
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,U.S. Senate,,,Blanks,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,U.S. Senate,,,Blanks,0
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,U.S. Senate,,,Blanks,0
-Aroostook,TD R2 Twp                                                                                                                                         ,U.S. Senate,,,Blanks,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),U.S. Senate,,,Blanks,1
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),U.S. Senate,,,Blanks,0
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),U.S. Senate,,,Blanks,0
+Aroostook,T17 R3 (Van Buren),U.S. Senate,,,Blanks,0
+Aroostook,T4 R3 Twp (Island Falls),U.S. Senate,,,Blanks,0
+Aroostook,TD R2 Twp,U.S. Senate,,,Blanks,0
 Aroostook,Van Buren,U.S. Senate,,,Blanks,20
 Aroostook,Wade,U.S. Senate,,,Blanks,4
 Aroostook,Wallagrass,U.S. Senate,,,Blanks,9
@@ -2293,7 +2293,7 @@ Hancock,Stonington,U.S. Senate,,,Blanks,17
 Hancock,Sullivan,U.S. Senate,,,Blanks,8
 Hancock,Surry,U.S. Senate,,,Blanks,9
 Hancock,Swans Island,U.S. Senate,,,Blanks,5
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,U.S. Senate,,,Blanks,1
+Hancock,T22 MD Twp (Beddington & Osborn),U.S. Senate,,,Blanks,1
 Hancock,Tremont,U.S. Senate,,,Blanks,4
 Hancock,Trenton,U.S. Senate,,,Blanks,11
 Hancock,Verona Island,U.S. Senate,,,Blanks,2
@@ -2403,7 +2403,7 @@ Oxford,Upton,U.S. Senate,,,Blanks,1
 Oxford,Waterford,U.S. Senate,,,Blanks,10
 Oxford,West Paris,U.S. Senate,,,Blanks,27
 Oxford,Woodstock,U.S. Senate,,,Blanks,15
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",U.S. Senate,,,Blanks,0
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",U.S. Senate,,,Blanks,0
 Penobscot,Alton,U.S. Senate,,,Blanks,7
 Penobscot,Bangor,U.S. Senate,,,Blanks,238
 Penobscot,Bradford,U.S. Senate,,,Blanks,13
@@ -2427,7 +2427,7 @@ Penobscot,Enfield,U.S. Senate,,,Blanks,7
 Penobscot,Etna,U.S. Senate,,,Blanks,10
 Penobscot,Exeter,U.S. Senate,,,Blanks,10
 Penobscot,Grand Falls Twp (Burlington),U.S. Senate,,,Blanks,0
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,U.S. Senate,,,Blanks,0
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),U.S. Senate,,,Blanks,0
 Penobscot,Garland,U.S. Senate,,,Blanks,12
 Penobscot,Glenburn,U.S. Senate,,,Blanks,23
 Penobscot,Greenbush,U.S. Senate,,,Blanks,7
@@ -2457,7 +2457,7 @@ Penobscot,Millinocket,U.S. Senate,,,Blanks,36
 Penobscot,Mount Chase,U.S. Senate,,,Blanks,1
 Penobscot,Newburgh,U.S. Senate,,,Blanks,10
 Penobscot,Newport,U.S. Senate,,,Blanks,17
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,U.S. Senate,,,Blanks,60
+Penobscot,Old Town (and Argyle Twp),U.S. Senate,,,Blanks,60
 Penobscot,Orneville Twp (Lagrange),U.S. Senate,,,Blanks,0
 Penobscot,Orono,U.S. Senate,,,Blanks,54
 Penobscot,Orrington,U.S. Senate,,,Blanks,46
@@ -2470,8 +2470,8 @@ Penobscot,Seboeis Plt,U.S. Senate,,,Blanks,0
 Penobscot,Springfield,U.S. Senate,,,Blanks,1
 Penobscot,Stacyville,U.S. Senate,,,Blanks,6
 Penobscot,Stetson,U.S. Senate,,,Blanks,10
-Penobscot,T3 ND Twp                                                                                                                                          ,U.S. Senate,,,Blanks,0
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",U.S. Senate,,,Blanks,0
+Penobscot,T3 ND Twp,U.S. Senate,,,Blanks,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",U.S. Senate,,,Blanks,0
 Penobscot,Veazie,U.S. Senate,,,Blanks,10
 Penobscot,Webster Plt,U.S. Senate,,,Blanks,4
 Penobscot,Winn,U.S. Senate,,,Blanks,4
@@ -2483,7 +2483,7 @@ Piscataquis,Beaver Cove,U.S. Senate,,,Blanks,0
 Piscataquis,Bowerbank,U.S. Senate,,,Blanks,0
 Piscataquis,Brownville,U.S. Senate,,,Blanks,12
 Piscataquis,Dover-Foxcroft,U.S. Senate,,,Blanks,28
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,U.S. Senate,,,Blanks,0
+Piscataquis,Elliotsville Twp (Monson),U.S. Senate,,,Blanks,0
 Piscataquis,Greenville,U.S. Senate,,,Blanks,9
 Piscataquis,Guilford,U.S. Senate,,,Blanks,6
 Piscataquis,Kingsbury Plt,U.S. Senate,,,Blanks,1
@@ -2524,7 +2524,7 @@ Somerset,Harmony,U.S. Senate,,,Blanks,14
 Somerset,Hartland,U.S. Senate,,,Blanks,5
 Somerset,Highland Plt,U.S. Senate,,,Blanks,2
 Somerset,Jackman,U.S. Senate,,,Blanks,11
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,U.S. Senate,,,Blanks,0
+Somerset,Lexington/Spring Lake Twps,U.S. Senate,,,Blanks,0
 Somerset,Madison,U.S. Senate,,,Blanks,22
 Somerset,Mercer,U.S. Senate,,,Blanks,3
 Somerset,Moose River,U.S. Senate,,,Blanks,4
@@ -2571,7 +2571,7 @@ Waldo,Waldo,U.S. Senate,,,Blanks,6
 Waldo,Winterport,U.S. Senate,,,Blanks,30
 Washington,Addison,U.S. Senate,,,Blanks,8
 Washington,Alexander,U.S. Senate,,,Blanks,5
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,U.S. Senate,,,Blanks,0
+Washington,Berry/Cathance/Marion Twps (East Machias),U.S. Senate,,,Blanks,0
 Washington,Baileyville,U.S. Senate,,,Blanks,26
 Washington,Baring Plt,U.S. Senate,,,Blanks,0
 Washington,Beals,U.S. Senate,,,Blanks,6
@@ -2609,9 +2609,9 @@ Washington,Princeton,U.S. Senate,,,Blanks,7
 Washington,Robbinston,U.S. Senate,,,Blanks,7
 Washington,Roque Bluffs,U.S. Senate,,,Blanks,1
 Washington,Steuben,U.S. Senate,,,Blanks,13
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",U.S. Senate,,,Blanks,0
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,U.S. Senate,,,Blanks,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,U.S. Senate,,,Blanks,0
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",U.S. Senate,,,Blanks,0
+Washington,T26 ED BPP Twp (Wesley),U.S. Senate,,,Blanks,0
+Washington,T7 SD Twp (Steuben),U.S. Senate,,,Blanks,0
 Washington,Talmadge,U.S. Senate,,,Blanks,0
 Washington,Topsfield,U.S. Senate,,,Blanks,1
 Washington,Vanceboro,U.S. Senate,,,Blanks,1
@@ -2677,7 +2677,7 @@ Aroostook,Cross Lake Twp (New Canada),Governor,,IND,Teresea M. Hayes,7
 Aroostook,Crystal,Governor,,IND,Teresea M. Hayes,11
 Aroostook,Cyr Plt,Governor,,IND,Teresea M. Hayes,5
 Aroostook,Dyer Brook,Governor,,IND,Teresea M. Hayes,8
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,Governor,,IND,Teresea M. Hayes,3
+Aroostook,E Twp (Blaine),Governor,,IND,Teresea M. Hayes,3
 Aroostook,Eagle Lake,Governor,,IND,Teresea M. Hayes,26
 Aroostook,Easton,Governor,,IND,Teresea M. Hayes,50
 Aroostook,Fort Fairfield,Governor,,IND,Teresea M. Hayes,150
@@ -2723,12 +2723,12 @@ Aroostook,Saint John Plt,Governor,,IND,Teresea M. Hayes,12
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,Governor,,IND,Teresea M. Hayes,41
 Aroostook,Smyrna,Governor,,IND,Teresea M. Hayes,5
 Aroostook,Stockholm,Governor,,IND,Teresea M. Hayes,13
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,Governor,,IND,Teresea M. Hayes,0
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,Governor,,IND,Teresea M. Hayes,0
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,Governor,,IND,Teresea M. Hayes,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,Governor,,IND,Teresea M. Hayes,2
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,Governor,,IND,Teresea M. Hayes,0
-Aroostook,TD R2 Twp                                                                                                                                         ,Governor,,IND,Teresea M. Hayes,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),Governor,,IND,Teresea M. Hayes,0
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),Governor,,IND,Teresea M. Hayes,0
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),Governor,,IND,Teresea M. Hayes,0
+Aroostook,T17 R3 (Van Buren),Governor,,IND,Teresea M. Hayes,2
+Aroostook,T4 R3 Twp (Island Falls),Governor,,IND,Teresea M. Hayes,0
+Aroostook,TD R2 Twp,Governor,,IND,Teresea M. Hayes,0
 Aroostook,Van Buren,Governor,,IND,Teresea M. Hayes,50
 Aroostook,Wade,Governor,,IND,Teresea M. Hayes,9
 Aroostook,Wallagrass,Governor,,IND,Teresea M. Hayes,15
@@ -2823,7 +2823,7 @@ Hancock,Stonington,Governor,,IND,Teresea M. Hayes,19
 Hancock,Sullivan,Governor,,IND,Teresea M. Hayes,33
 Hancock,Surry,Governor,,IND,Teresea M. Hayes,39
 Hancock,Swans Island,Governor,,IND,Teresea M. Hayes,14
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,Governor,,IND,Teresea M. Hayes,0
+Hancock,T22 MD Twp (Beddington & Osborn),Governor,,IND,Teresea M. Hayes,0
 Hancock,Tremont,Governor,,IND,Teresea M. Hayes,46
 Hancock,Trenton,Governor,,IND,Teresea M. Hayes,50
 Hancock,Verona Island,Governor,,IND,Teresea M. Hayes,20
@@ -2933,7 +2933,7 @@ Oxford,Upton,Governor,,IND,Teresea M. Hayes,0
 Oxford,Waterford,Governor,,IND,Teresea M. Hayes,71
 Oxford,West Paris,Governor,,IND,Teresea M. Hayes,78
 Oxford,Woodstock,Governor,,IND,Teresea M. Hayes,69
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",Governor,,IND,Teresea M. Hayes,7
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",Governor,,IND,Teresea M. Hayes,7
 Penobscot,Alton,Governor,,IND,Teresea M. Hayes,16
 Penobscot,Bangor,Governor,,IND,Teresea M. Hayes,726
 Penobscot,Bradford,Governor,,IND,Teresea M. Hayes,33
@@ -2957,7 +2957,7 @@ Penobscot,Enfield,Governor,,IND,Teresea M. Hayes,43
 Penobscot,Etna,Governor,,IND,Teresea M. Hayes,24
 Penobscot,Exeter,Governor,,IND,Teresea M. Hayes,37
 Penobscot,Grand Falls Twp (Burlington),Governor,,IND,Teresea M. Hayes,0
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,Governor,,IND,Teresea M. Hayes,1
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),Governor,,IND,Teresea M. Hayes,1
 Penobscot,Garland,Governor,,IND,Teresea M. Hayes,25
 Penobscot,Glenburn,Governor,,IND,Teresea M. Hayes,121
 Penobscot,Greenbush,Governor,,IND,Teresea M. Hayes,20
@@ -2987,7 +2987,7 @@ Penobscot,Millinocket,Governor,,IND,Teresea M. Hayes,135
 Penobscot,Mount Chase,Governor,,IND,Teresea M. Hayes,16
 Penobscot,Newburgh,Governor,,IND,Teresea M. Hayes,37
 Penobscot,Newport,Governor,,IND,Teresea M. Hayes,56
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,Governor,,IND,Teresea M. Hayes,182
+Penobscot,Old Town (and Argyle Twp),Governor,,IND,Teresea M. Hayes,182
 Penobscot,Orneville Twp (Lagrange),Governor,,IND,Teresea M. Hayes,0
 Penobscot,Orono,Governor,,IND,Teresea M. Hayes,248
 Penobscot,Orrington,Governor,,IND,Teresea M. Hayes,113
@@ -3000,8 +3000,8 @@ Penobscot,Seboeis Plt,Governor,,IND,Teresea M. Hayes,0
 Penobscot,Springfield,Governor,,IND,Teresea M. Hayes,9
 Penobscot,Stacyville,Governor,,IND,Teresea M. Hayes,6
 Penobscot,Stetson,Governor,,IND,Teresea M. Hayes,22
-Penobscot,T3 ND Twp                                                                                                                                          ,Governor,,IND,Teresea M. Hayes,0
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",Governor,,IND,Teresea M. Hayes,1
+Penobscot,T3 ND Twp,Governor,,IND,Teresea M. Hayes,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",Governor,,IND,Teresea M. Hayes,1
 Penobscot,Veazie,Governor,,IND,Teresea M. Hayes,53
 Penobscot,Webster Plt,Governor,,IND,Teresea M. Hayes,6
 Penobscot,Winn,Governor,,IND,Teresea M. Hayes,6
@@ -3013,7 +3013,7 @@ Piscataquis,Beaver Cove,Governor,,IND,Teresea M. Hayes,4
 Piscataquis,Bowerbank,Governor,,IND,Teresea M. Hayes,2
 Piscataquis,Brownville,Governor,,IND,Teresea M. Hayes,32
 Piscataquis,Dover-Foxcroft,Governor,,IND,Teresea M. Hayes,117
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,Governor,,IND,Teresea M. Hayes,0
+Piscataquis,Elliotsville Twp (Monson),Governor,,IND,Teresea M. Hayes,0
 Piscataquis,Greenville,Governor,,IND,Teresea M. Hayes,56
 Piscataquis,Guilford,Governor,,IND,Teresea M. Hayes,31
 Piscataquis,Kingsbury Plt,Governor,,IND,Teresea M. Hayes,2
@@ -3054,7 +3054,7 @@ Somerset,Harmony,Governor,,IND,Teresea M. Hayes,28
 Somerset,Hartland,Governor,,IND,Teresea M. Hayes,51
 Somerset,Highland Plt,Governor,,IND,Teresea M. Hayes,12
 Somerset,Jackman,Governor,,IND,Teresea M. Hayes,19
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,Governor,,IND,Teresea M. Hayes,1
+Somerset,Lexington/Spring Lake Twps,Governor,,IND,Teresea M. Hayes,1
 Somerset,Madison,Governor,,IND,Teresea M. Hayes,119
 Somerset,Mercer,Governor,,IND,Teresea M. Hayes,17
 Somerset,Moose River,Governor,,IND,Teresea M. Hayes,4
@@ -3101,7 +3101,7 @@ Waldo,Waldo,Governor,,IND,Teresea M. Hayes,26
 Waldo,Winterport,Governor,,IND,Teresea M. Hayes,97
 Washington,Addison,Governor,,IND,Teresea M. Hayes,26
 Washington,Alexander,Governor,,IND,Teresea M. Hayes,7
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,Governor,,IND,Teresea M. Hayes,0
+Washington,Berry/Cathance/Marion Twps (East Machias),Governor,,IND,Teresea M. Hayes,0
 Washington,Baileyville,Governor,,IND,Teresea M. Hayes,24
 Washington,Baring Plt,Governor,,IND,Teresea M. Hayes,5
 Washington,Beals,Governor,,IND,Teresea M. Hayes,5
@@ -3139,9 +3139,9 @@ Washington,Princeton,Governor,,IND,Teresea M. Hayes,26
 Washington,Robbinston,Governor,,IND,Teresea M. Hayes,15
 Washington,Roque Bluffs,Governor,,IND,Teresea M. Hayes,7
 Washington,Steuben,Governor,,IND,Teresea M. Hayes,14
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",Governor,,IND,Teresea M. Hayes,1
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,Governor,,IND,Teresea M. Hayes,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,Governor,,IND,Teresea M. Hayes,1
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",Governor,,IND,Teresea M. Hayes,1
+Washington,T26 ED BPP Twp (Wesley),Governor,,IND,Teresea M. Hayes,0
+Washington,T7 SD Twp (Steuben),Governor,,IND,Teresea M. Hayes,1
 Washington,Talmadge,Governor,,IND,Teresea M. Hayes,1
 Washington,Topsfield,Governor,,IND,Teresea M. Hayes,7
 Washington,Vanceboro,Governor,,IND,Teresea M. Hayes,1
@@ -3207,7 +3207,7 @@ Aroostook,Cross Lake Twp (New Canada),Governor,,DEM,Janet T. Mills,45
 Aroostook,Crystal,Governor,,DEM,Janet T. Mills,26
 Aroostook,Cyr Plt,Governor,,DEM,Janet T. Mills,17
 Aroostook,Dyer Brook,Governor,,DEM,Janet T. Mills,40
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,Governor,,DEM,Janet T. Mills,7
+Aroostook,E Twp (Blaine),Governor,,DEM,Janet T. Mills,7
 Aroostook,Eagle Lake,Governor,,DEM,Janet T. Mills,173
 Aroostook,Easton,Governor,,DEM,Janet T. Mills,184
 Aroostook,Fort Fairfield,Governor,,DEM,Janet T. Mills,507
@@ -3253,12 +3253,12 @@ Aroostook,Saint John Plt,Governor,,DEM,Janet T. Mills,51
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,Governor,,DEM,Janet T. Mills,121
 Aroostook,Smyrna,Governor,,DEM,Janet T. Mills,42
 Aroostook,Stockholm,Governor,,DEM,Janet T. Mills,48
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,Governor,,DEM,Janet T. Mills,6
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,Governor,,DEM,Janet T. Mills,2
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,Governor,,DEM,Janet T. Mills,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,Governor,,DEM,Janet T. Mills,6
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,Governor,,DEM,Janet T. Mills,1
-Aroostook,TD R2 Twp                                                                                                                                         ,Governor,,DEM,Janet T. Mills,4
+Aroostook,T11 R4 WELS Twp (Castle Hill),Governor,,DEM,Janet T. Mills,6
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),Governor,,DEM,Janet T. Mills,2
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),Governor,,DEM,Janet T. Mills,0
+Aroostook,T17 R3 (Van Buren),Governor,,DEM,Janet T. Mills,6
+Aroostook,T4 R3 Twp (Island Falls),Governor,,DEM,Janet T. Mills,1
+Aroostook,TD R2 Twp,Governor,,DEM,Janet T. Mills,4
 Aroostook,Van Buren,Governor,,DEM,Janet T. Mills,346
 Aroostook,Wade,Governor,,DEM,Janet T. Mills,35
 Aroostook,Wallagrass,Governor,,DEM,Janet T. Mills,129
@@ -3353,7 +3353,7 @@ Hancock,Stonington,Governor,,DEM,Janet T. Mills,324
 Hancock,Sullivan,Governor,,DEM,Janet T. Mills,274
 Hancock,Surry,Governor,,DEM,Janet T. Mills,497
 Hancock,Swans Island,Governor,,DEM,Janet T. Mills,83
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,Governor,,DEM,Janet T. Mills,3
+Hancock,T22 MD Twp (Beddington & Osborn),Governor,,DEM,Janet T. Mills,3
 Hancock,Tremont,Governor,,DEM,Janet T. Mills,451
 Hancock,Trenton,Governor,,DEM,Janet T. Mills,364
 Hancock,Verona Island,Governor,,DEM,Janet T. Mills,119
@@ -3463,7 +3463,7 @@ Oxford,Upton,Governor,,DEM,Janet T. Mills,10
 Oxford,Waterford,Governor,,DEM,Janet T. Mills,333
 Oxford,West Paris,Governor,,DEM,Janet T. Mills,274
 Oxford,Woodstock,Governor,,DEM,Janet T. Mills,247
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",Governor,,DEM,Janet T. Mills,22
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",Governor,,DEM,Janet T. Mills,22
 Penobscot,Alton,Governor,,DEM,Janet T. Mills,133
 Penobscot,Bangor,Governor,,DEM,Janet T. Mills,7116
 Penobscot,Bradford,Governor,,DEM,Janet T. Mills,160
@@ -3487,7 +3487,7 @@ Penobscot,Enfield,Governor,,DEM,Janet T. Mills,225
 Penobscot,Etna,Governor,,DEM,Janet T. Mills,176
 Penobscot,Exeter,Governor,,DEM,Janet T. Mills,154
 Penobscot,Grand Falls Twp (Burlington),Governor,,DEM,Janet T. Mills,4
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,Governor,,DEM,Janet T. Mills,9
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),Governor,,DEM,Janet T. Mills,9
 Penobscot,Garland,Governor,,DEM,Janet T. Mills,145
 Penobscot,Glenburn,Governor,,DEM,Janet T. Mills,806
 Penobscot,Greenbush,Governor,,DEM,Janet T. Mills,151
@@ -3517,7 +3517,7 @@ Penobscot,Millinocket,Governor,,DEM,Janet T. Mills,840
 Penobscot,Mount Chase,Governor,,DEM,Janet T. Mills,31
 Penobscot,Newburgh,Governor,,DEM,Janet T. Mills,293
 Penobscot,Newport,Governor,,DEM,Janet T. Mills,480
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,Governor,,DEM,Janet T. Mills,1733
+Penobscot,Old Town (and Argyle Twp),Governor,,DEM,Janet T. Mills,1733
 Penobscot,Orneville Twp (Lagrange),Governor,,DEM,Janet T. Mills,0
 Penobscot,Orono,Governor,,DEM,Janet T. Mills,2969
 Penobscot,Orrington,Governor,,DEM,Janet T. Mills,826
@@ -3530,8 +3530,8 @@ Penobscot,Seboeis Plt,Governor,,DEM,Janet T. Mills,14
 Penobscot,Springfield,Governor,,DEM,Janet T. Mills,24
 Penobscot,Stacyville,Governor,,DEM,Janet T. Mills,35
 Penobscot,Stetson,Governor,,DEM,Janet T. Mills,182
-Penobscot,T3 ND Twp                                                                                                                                          ,Governor,,DEM,Janet T. Mills,3
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",Governor,,DEM,Janet T. Mills,4
+Penobscot,T3 ND Twp,Governor,,DEM,Janet T. Mills,3
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",Governor,,DEM,Janet T. Mills,4
 Penobscot,Veazie,Governor,,DEM,Janet T. Mills,537
 Penobscot,Webster Plt,Governor,,DEM,Janet T. Mills,10
 Penobscot,Winn,Governor,,DEM,Janet T. Mills,49
@@ -3543,7 +3543,7 @@ Piscataquis,Beaver Cove,Governor,,DEM,Janet T. Mills,35
 Piscataquis,Bowerbank,Governor,,DEM,Janet T. Mills,27
 Piscataquis,Brownville,Governor,,DEM,Janet T. Mills,200
 Piscataquis,Dover-Foxcroft,Governor,,DEM,Janet T. Mills,725
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,Governor,,DEM,Janet T. Mills,10
+Piscataquis,Elliotsville Twp (Monson),Governor,,DEM,Janet T. Mills,10
 Piscataquis,Greenville,Governor,,DEM,Janet T. Mills,366
 Piscataquis,Guilford,Governor,,DEM,Janet T. Mills,213
 Piscataquis,Kingsbury Plt,Governor,,DEM,Janet T. Mills,8
@@ -3584,7 +3584,7 @@ Somerset,Harmony,Governor,,DEM,Janet T. Mills,122
 Somerset,Hartland,Governor,,DEM,Janet T. Mills,208
 Somerset,Highland Plt,Governor,,DEM,Janet T. Mills,31
 Somerset,Jackman,Governor,,DEM,Janet T. Mills,110
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,Governor,,DEM,Janet T. Mills,6
+Somerset,Lexington/Spring Lake Twps,Governor,,DEM,Janet T. Mills,6
 Somerset,Madison,Governor,,DEM,Janet T. Mills,766
 Somerset,Mercer,Governor,,DEM,Janet T. Mills,155
 Somerset,Moose River,Governor,,DEM,Janet T. Mills,15
@@ -3631,7 +3631,7 @@ Waldo,Waldo,Governor,,DEM,Janet T. Mills,194
 Waldo,Winterport,Governor,,DEM,Janet T. Mills,830
 Washington,Addison,Governor,,DEM,Janet T. Mills,221
 Washington,Alexander,Governor,,DEM,Janet T. Mills,74
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,Governor,,DEM,Janet T. Mills,19
+Washington,Berry/Cathance/Marion Twps (East Machias),Governor,,DEM,Janet T. Mills,19
 Washington,Baileyville,Governor,,DEM,Janet T. Mills,217
 Washington,Baring Plt,Governor,,DEM,Janet T. Mills,41
 Washington,Beals,Governor,,DEM,Janet T. Mills,82
@@ -3669,9 +3669,9 @@ Washington,Princeton,Governor,,DEM,Janet T. Mills,108
 Washington,Robbinston,Governor,,DEM,Janet T. Mills,113
 Washington,Roque Bluffs,Governor,,DEM,Janet T. Mills,89
 Washington,Steuben,Governor,,DEM,Janet T. Mills,191
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",Governor,,DEM,Janet T. Mills,2
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,Governor,,DEM,Janet T. Mills,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,Governor,,DEM,Janet T. Mills,2
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",Governor,,DEM,Janet T. Mills,2
+Washington,T26 ED BPP Twp (Wesley),Governor,,DEM,Janet T. Mills,0
+Washington,T7 SD Twp (Steuben),Governor,,DEM,Janet T. Mills,2
 Washington,Talmadge,Governor,,DEM,Janet T. Mills,13
 Washington,Topsfield,Governor,,DEM,Janet T. Mills,17
 Washington,Vanceboro,Governor,,DEM,Janet T. Mills,27
@@ -3737,7 +3737,7 @@ Aroostook,Cross Lake Twp (New Canada),Governor,,REP,Shawn H. Moody,47
 Aroostook,Crystal,Governor,,REP,Shawn H. Moody,75
 Aroostook,Cyr Plt,Governor,,REP,Shawn H. Moody,26
 Aroostook,Dyer Brook,Governor,,REP,Shawn H. Moody,60
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,Governor,,REP,Shawn H. Moody,20
+Aroostook,E Twp (Blaine),Governor,,REP,Shawn H. Moody,20
 Aroostook,Eagle Lake,Governor,,REP,Shawn H. Moody,157
 Aroostook,Easton,Governor,,REP,Shawn H. Moody,337
 Aroostook,Fort Fairfield,Governor,,REP,Shawn H. Moody,688
@@ -3783,12 +3783,12 @@ Aroostook,Saint John Plt,Governor,,REP,Shawn H. Moody,64
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,Governor,,REP,Shawn H. Moody,321
 Aroostook,Smyrna,Governor,,REP,Shawn H. Moody,73
 Aroostook,Stockholm,Governor,,REP,Shawn H. Moody,67
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,Governor,,REP,Shawn H. Moody,9
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,Governor,,REP,Shawn H. Moody,1
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,Governor,,REP,Shawn H. Moody,6
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,Governor,,REP,Shawn H. Moody,7
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,Governor,,REP,Shawn H. Moody,0
-Aroostook,TD R2 Twp                                                                                                                                         ,Governor,,REP,Shawn H. Moody,1
+Aroostook,T11 R4 WELS Twp (Castle Hill),Governor,,REP,Shawn H. Moody,9
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),Governor,,REP,Shawn H. Moody,1
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),Governor,,REP,Shawn H. Moody,6
+Aroostook,T17 R3 (Van Buren),Governor,,REP,Shawn H. Moody,7
+Aroostook,T4 R3 Twp (Island Falls),Governor,,REP,Shawn H. Moody,0
+Aroostook,TD R2 Twp,Governor,,REP,Shawn H. Moody,1
 Aroostook,Van Buren,Governor,,REP,Shawn H. Moody,270
 Aroostook,Wade,Governor,,REP,Shawn H. Moody,65
 Aroostook,Wallagrass,Governor,,REP,Shawn H. Moody,83
@@ -3883,7 +3883,7 @@ Hancock,Stonington,Governor,,REP,Shawn H. Moody,166
 Hancock,Sullivan,Governor,,REP,Shawn H. Moody,248
 Hancock,Surry,Governor,,REP,Shawn H. Moody,361
 Hancock,Swans Island,Governor,,REP,Shawn H. Moody,108
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,Governor,,REP,Shawn H. Moody,2
+Hancock,T22 MD Twp (Beddington & Osborn),Governor,,REP,Shawn H. Moody,2
 Hancock,Tremont,Governor,,REP,Shawn H. Moody,319
 Hancock,Trenton,Governor,,REP,Shawn H. Moody,339
 Hancock,Verona Island,Governor,,REP,Shawn H. Moody,134
@@ -3993,7 +3993,7 @@ Oxford,Upton,Governor,,REP,Shawn H. Moody,35
 Oxford,Waterford,Governor,,REP,Shawn H. Moody,387
 Oxford,West Paris,Governor,,REP,Shawn H. Moody,379
 Oxford,Woodstock,Governor,,REP,Shawn H. Moody,318
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",Governor,,REP,Shawn H. Moody,38
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",Governor,,REP,Shawn H. Moody,38
 Penobscot,Alton,Governor,,REP,Shawn H. Moody,215
 Penobscot,Bangor,Governor,,REP,Shawn H. Moody,4464
 Penobscot,Bradford,Governor,,REP,Shawn H. Moody,325
@@ -4017,7 +4017,7 @@ Penobscot,Enfield,Governor,,REP,Shawn H. Moody,368
 Penobscot,Etna,Governor,,REP,Shawn H. Moody,323
 Penobscot,Exeter,Governor,,REP,Shawn H. Moody,248
 Penobscot,Grand Falls Twp (Burlington),Governor,,REP,Shawn H. Moody,8
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,Governor,,REP,Shawn H. Moody,13
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),Governor,,REP,Shawn H. Moody,13
 Penobscot,Garland,Governor,,REP,Shawn H. Moody,271
 Penobscot,Glenburn,Governor,,REP,Shawn H. Moody,1097
 Penobscot,Greenbush,Governor,,REP,Shawn H. Moody,347
@@ -4047,7 +4047,7 @@ Penobscot,Millinocket,Governor,,REP,Shawn H. Moody,853
 Penobscot,Mount Chase,Governor,,REP,Shawn H. Moody,43
 Penobscot,Newburgh,Governor,,REP,Shawn H. Moody,476
 Penobscot,Newport,Governor,,REP,Shawn H. Moody,766
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,Governor,,REP,Shawn H. Moody,1187
+Penobscot,Old Town (and Argyle Twp),Governor,,REP,Shawn H. Moody,1187
 Penobscot,Orneville Twp (Lagrange),Governor,,REP,Shawn H. Moody,1
 Penobscot,Orono,Governor,,REP,Shawn H. Moody,1029
 Penobscot,Orrington,Governor,,REP,Shawn H. Moody,1083
@@ -4060,8 +4060,8 @@ Penobscot,Seboeis Plt,Governor,,REP,Shawn H. Moody,16
 Penobscot,Springfield,Governor,,REP,Shawn H. Moody,91
 Penobscot,Stacyville,Governor,,REP,Shawn H. Moody,101
 Penobscot,Stetson,Governor,,REP,Shawn H. Moody,370
-Penobscot,T3 ND Twp                                                                                                                                          ,Governor,,REP,Shawn H. Moody,2
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",Governor,,REP,Shawn H. Moody,6
+Penobscot,T3 ND Twp,Governor,,REP,Shawn H. Moody,2
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",Governor,,REP,Shawn H. Moody,6
 Penobscot,Veazie,Governor,,REP,Shawn H. Moody,392
 Penobscot,Webster Plt,Governor,,REP,Shawn H. Moody,15
 Penobscot,Winn,Governor,,REP,Shawn H. Moody,99
@@ -4073,7 +4073,7 @@ Piscataquis,Beaver Cove,Governor,,REP,Shawn H. Moody,56
 Piscataquis,Bowerbank,Governor,,REP,Shawn H. Moody,60
 Piscataquis,Brownville,Governor,,REP,Shawn H. Moody,229
 Piscataquis,Dover-Foxcroft,Governor,,REP,Shawn H. Moody,880
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,Governor,,REP,Shawn H. Moody,5
+Piscataquis,Elliotsville Twp (Monson),Governor,,REP,Shawn H. Moody,5
 Piscataquis,Greenville,Governor,,REP,Shawn H. Moody,507
 Piscataquis,Guilford,Governor,,REP,Shawn H. Moody,288
 Piscataquis,Kingsbury Plt,Governor,,REP,Shawn H. Moody,13
@@ -4114,7 +4114,7 @@ Somerset,Harmony,Governor,,REP,Shawn H. Moody,229
 Somerset,Hartland,Governor,,REP,Shawn H. Moody,410
 Somerset,Highland Plt,Governor,,REP,Shawn H. Moody,56
 Somerset,Jackman,Governor,,REP,Shawn H. Moody,273
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,Governor,,REP,Shawn H. Moody,17
+Somerset,Lexington/Spring Lake Twps,Governor,,REP,Shawn H. Moody,17
 Somerset,Madison,Governor,,REP,Shawn H. Moody,953
 Somerset,Mercer,Governor,,REP,Shawn H. Moody,192
 Somerset,Moose River,Governor,,REP,Shawn H. Moody,66
@@ -4161,7 +4161,7 @@ Waldo,Waldo,Governor,,REP,Shawn H. Moody,183
 Waldo,Winterport,Governor,,REP,Shawn H. Moody,909
 Washington,Addison,Governor,,REP,Shawn H. Moody,298
 Washington,Alexander,Governor,,REP,Shawn H. Moody,154
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,Governor,,REP,Shawn H. Moody,26
+Washington,Berry/Cathance/Marion Twps (East Machias),Governor,,REP,Shawn H. Moody,26
 Washington,Baileyville,Governor,,REP,Shawn H. Moody,283
 Washington,Baring Plt,Governor,,REP,Shawn H. Moody,38
 Washington,Beals,Governor,,REP,Shawn H. Moody,125
@@ -4199,9 +4199,9 @@ Washington,Princeton,Governor,,REP,Shawn H. Moody,214
 Washington,Robbinston,Governor,,REP,Shawn H. Moody,141
 Washington,Roque Bluffs,Governor,,REP,Shawn H. Moody,51
 Washington,Steuben,Governor,,REP,Shawn H. Moody,274
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",Governor,,REP,Shawn H. Moody,7
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,Governor,,REP,Shawn H. Moody,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,Governor,,REP,Shawn H. Moody,2
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",Governor,,REP,Shawn H. Moody,7
+Washington,T26 ED BPP Twp (Wesley),Governor,,REP,Shawn H. Moody,0
+Washington,T7 SD Twp (Steuben),Governor,,REP,Shawn H. Moody,2
 Washington,Talmadge,Governor,,REP,Shawn H. Moody,18
 Washington,Topsfield,Governor,,REP,Shawn H. Moody,75
 Washington,Vanceboro,Governor,,REP,Shawn H. Moody,43
@@ -4267,7 +4267,7 @@ Aroostook,Cross Lake Twp (New Canada),Governor,,,Write-ins,0
 Aroostook,Crystal,Governor,,,Write-ins,0
 Aroostook,Cyr Plt,Governor,,,Write-ins,0
 Aroostook,Dyer Brook,Governor,,,Write-ins,0
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,Governor,,,Write-ins,0
+Aroostook,E Twp (Blaine),Governor,,,Write-ins,0
 Aroostook,Eagle Lake,Governor,,,Write-ins,0
 Aroostook,Easton,Governor,,,Write-ins,0
 Aroostook,Fort Fairfield,Governor,,,Write-ins,0
@@ -4313,12 +4313,12 @@ Aroostook,Saint John Plt,Governor,,,Write-ins,0
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,Governor,,,Write-ins,0
 Aroostook,Smyrna,Governor,,,Write-ins,0
 Aroostook,Stockholm,Governor,,,Write-ins,0
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,Governor,,,Write-ins,0
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,Governor,,,Write-ins,0
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,Governor,,,Write-ins,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,Governor,,,Write-ins,0
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,Governor,,,Write-ins,0
-Aroostook,TD R2 Twp                                                                                                                                         ,Governor,,,Write-ins,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),Governor,,,Write-ins,0
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),Governor,,,Write-ins,0
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),Governor,,,Write-ins,0
+Aroostook,T17 R3 (Van Buren),Governor,,,Write-ins,0
+Aroostook,T4 R3 Twp (Island Falls),Governor,,,Write-ins,0
+Aroostook,TD R2 Twp,Governor,,,Write-ins,0
 Aroostook,Van Buren,Governor,,,Write-ins,0
 Aroostook,Wade,Governor,,,Write-ins,0
 Aroostook,Wallagrass,Governor,,,Write-ins,0
@@ -4413,7 +4413,7 @@ Hancock,Stonington,Governor,,,Write-ins,0
 Hancock,Sullivan,Governor,,,Write-ins,0
 Hancock,Surry,Governor,,,Write-ins,0
 Hancock,Swans Island,Governor,,,Write-ins,0
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,Governor,,,Write-ins,0
+Hancock,T22 MD Twp (Beddington & Osborn),Governor,,,Write-ins,0
 Hancock,Tremont,Governor,,,Write-ins,0
 Hancock,Trenton,Governor,,,Write-ins,0
 Hancock,Verona Island,Governor,,,Write-ins,0
@@ -4523,7 +4523,7 @@ Oxford,Upton,Governor,,,Write-ins,0
 Oxford,Waterford,Governor,,,Write-ins,0
 Oxford,West Paris,Governor,,,Write-ins,0
 Oxford,Woodstock,Governor,,,Write-ins,0
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",Governor,,,Write-ins,0
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",Governor,,,Write-ins,0
 Penobscot,Alton,Governor,,,Write-ins,0
 Penobscot,Bangor,Governor,,,Write-ins,2
 Penobscot,Bradford,Governor,,,Write-ins,0
@@ -4547,7 +4547,7 @@ Penobscot,Enfield,Governor,,,Write-ins,0
 Penobscot,Etna,Governor,,,Write-ins,0
 Penobscot,Exeter,Governor,,,Write-ins,0
 Penobscot,Grand Falls Twp (Burlington),Governor,,,Write-ins,0
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,Governor,,,Write-ins,0
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),Governor,,,Write-ins,0
 Penobscot,Garland,Governor,,,Write-ins,0
 Penobscot,Glenburn,Governor,,,Write-ins,0
 Penobscot,Greenbush,Governor,,,Write-ins,0
@@ -4577,7 +4577,7 @@ Penobscot,Millinocket,Governor,,,Write-ins,0
 Penobscot,Mount Chase,Governor,,,Write-ins,0
 Penobscot,Newburgh,Governor,,,Write-ins,0
 Penobscot,Newport,Governor,,,Write-ins,0
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,Governor,,,Write-ins,1
+Penobscot,Old Town (and Argyle Twp),Governor,,,Write-ins,1
 Penobscot,Orneville Twp (Lagrange),Governor,,,Write-ins,0
 Penobscot,Orono,Governor,,,Write-ins,0
 Penobscot,Orrington,Governor,,,Write-ins,0
@@ -4590,8 +4590,8 @@ Penobscot,Seboeis Plt,Governor,,,Write-ins,0
 Penobscot,Springfield,Governor,,,Write-ins,0
 Penobscot,Stacyville,Governor,,,Write-ins,0
 Penobscot,Stetson,Governor,,,Write-ins,0
-Penobscot,T3 ND Twp                                                                                                                                          ,Governor,,,Write-ins,0
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",Governor,,,Write-ins,0
+Penobscot,T3 ND Twp,Governor,,,Write-ins,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",Governor,,,Write-ins,0
 Penobscot,Veazie,Governor,,,Write-ins,0
 Penobscot,Webster Plt,Governor,,,Write-ins,0
 Penobscot,Winn,Governor,,,Write-ins,0
@@ -4603,7 +4603,7 @@ Piscataquis,Beaver Cove,Governor,,,Write-ins,0
 Piscataquis,Bowerbank,Governor,,,Write-ins,0
 Piscataquis,Brownville,Governor,,,Write-ins,0
 Piscataquis,Dover-Foxcroft,Governor,,,Write-ins,0
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,Governor,,,Write-ins,0
+Piscataquis,Elliotsville Twp (Monson),Governor,,,Write-ins,0
 Piscataquis,Greenville,Governor,,,Write-ins,0
 Piscataquis,Guilford,Governor,,,Write-ins,0
 Piscataquis,Kingsbury Plt,Governor,,,Write-ins,0
@@ -4644,7 +4644,7 @@ Somerset,Harmony,Governor,,,Write-ins,0
 Somerset,Hartland,Governor,,,Write-ins,0
 Somerset,Highland Plt,Governor,,,Write-ins,0
 Somerset,Jackman,Governor,,,Write-ins,0
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,Governor,,,Write-ins,0
+Somerset,Lexington/Spring Lake Twps,Governor,,,Write-ins,0
 Somerset,Madison,Governor,,,Write-ins,0
 Somerset,Mercer,Governor,,,Write-ins,1
 Somerset,Moose River,Governor,,,Write-ins,0
@@ -4691,7 +4691,7 @@ Waldo,Waldo,Governor,,,Write-ins,0
 Waldo,Winterport,Governor,,,Write-ins,0
 Washington,Addison,Governor,,,Write-ins,0
 Washington,Alexander,Governor,,,Write-ins,1
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,Governor,,,Write-ins,0
+Washington,Berry/Cathance/Marion Twps (East Machias),Governor,,,Write-ins,0
 Washington,Baileyville,Governor,,,Write-ins,0
 Washington,Baring Plt,Governor,,,Write-ins,0
 Washington,Beals,Governor,,,Write-ins,0
@@ -4729,9 +4729,9 @@ Washington,Princeton,Governor,,,Write-ins,0
 Washington,Robbinston,Governor,,,Write-ins,0
 Washington,Roque Bluffs,Governor,,,Write-ins,0
 Washington,Steuben,Governor,,,Write-ins,0
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",Governor,,,Write-ins,0
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,Governor,,,Write-ins,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,Governor,,,Write-ins,0
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",Governor,,,Write-ins,0
+Washington,T26 ED BPP Twp (Wesley),Governor,,,Write-ins,0
+Washington,T7 SD Twp (Steuben),Governor,,,Write-ins,0
 Washington,Talmadge,Governor,,,Write-ins,0
 Washington,Topsfield,Governor,,,Write-ins,0
 Washington,Vanceboro,Governor,,,Write-ins,0
@@ -4797,7 +4797,7 @@ Aroostook,Cross Lake Twp (New Canada),Governor,,,Blanks,3
 Aroostook,Crystal,Governor,,,Blanks,0
 Aroostook,Cyr Plt,Governor,,,Blanks,1
 Aroostook,Dyer Brook,Governor,,,Blanks,2
-Aroostook,E Twp (Blaine)                                                                                                                                                 ,Governor,,,Blanks,2
+Aroostook,E Twp (Blaine),Governor,,,Blanks,2
 Aroostook,Eagle Lake,Governor,,,Blanks,17
 Aroostook,Easton,Governor,,,Blanks,10
 Aroostook,Fort Fairfield,Governor,,,Blanks,41
@@ -4843,12 +4843,12 @@ Aroostook,Saint John Plt,Governor,,,Blanks,2
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps)                                                                                                                 =,Governor,,,Blanks,9
 Aroostook,Smyrna,Governor,,,Blanks,3
 Aroostook,Stockholm,Governor,,,Blanks,5
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                            ,Governor,,,Blanks,0
-Aroostook,T12 R13 &T9 R8 WELS (Ashland)                                                                                                                          ,Governor,,,Blanks,0
-Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt)                                                                                                                            ,Governor,,,Blanks,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                         ,Governor,,,Blanks,0
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                        ,Governor,,,Blanks,0
-Aroostook,TD R2 Twp                                                                                                                                         ,Governor,,,Blanks,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),Governor,,,Blanks,0
+Aroostook,T12 R13 &T9 R8 WELS (Ashland),Governor,,,Blanks,0
+Aroostook,T15 R6 Twp (Eagle Lake & Winterville Plt),Governor,,,Blanks,0
+Aroostook,T17 R3 (Van Buren),Governor,,,Blanks,0
+Aroostook,T4 R3 Twp (Island Falls),Governor,,,Blanks,0
+Aroostook,TD R2 Twp,Governor,,,Blanks,0
 Aroostook,Van Buren,Governor,,,Blanks,61
 Aroostook,Wade,Governor,,,Blanks,3
 Aroostook,Wallagrass,Governor,,,Blanks,16
@@ -4943,7 +4943,7 @@ Hancock,Stonington,Governor,,,Blanks,10
 Hancock,Sullivan,Governor,,,Blanks,15
 Hancock,Surry,Governor,,,Blanks,11
 Hancock,Swans Island,Governor,,,Blanks,10
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                            ,Governor,,,Blanks,1
+Hancock,T22 MD Twp (Beddington & Osborn),Governor,,,Blanks,1
 Hancock,Tremont,Governor,,,Blanks,23
 Hancock,Trenton,Governor,,,Blanks,23
 Hancock,Verona Island,Governor,,,Blanks,8
@@ -5053,7 +5053,7 @@ Oxford,Upton,Governor,,,Blanks,2
 Oxford,Waterford,Governor,,,Blanks,15
 Oxford,West Paris,Governor,,,Blanks,18
 Oxford,Woodstock,Governor,,,Blanks,14
-Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)                                                                                                                                    ",Governor,,,Blanks,1
+Penobscot,"Argyle Twp  (Alton, Edinburg & Penobscot Nation)",Governor,,,Blanks,1
 Penobscot,Alton,Governor,,,Blanks,7
 Penobscot,Bangor,Governor,,,Blanks,350
 Penobscot,Bradford,Governor,,,Blanks,18
@@ -5077,7 +5077,7 @@ Penobscot,Enfield,Governor,,,Blanks,17
 Penobscot,Etna,Governor,,,Blanks,16
 Penobscot,Exeter,Governor,,,Blanks,13
 Penobscot,Grand Falls Twp (Burlington),Governor,,,Blanks,0
-Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway)                                                    ,Governor,,,Blanks,0
+Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),Governor,,,Blanks,0
 Penobscot,Garland,Governor,,,Blanks,26
 Penobscot,Glenburn,Governor,,,Blanks,44
 Penobscot,Greenbush,Governor,,,Blanks,12
@@ -5107,7 +5107,7 @@ Penobscot,Millinocket,Governor,,,Blanks,47
 Penobscot,Mount Chase,Governor,,,Blanks,1
 Penobscot,Newburgh,Governor,,,Blanks,16
 Penobscot,Newport,Governor,,,Blanks,42
-Penobscot,Old Town (and Argyle Twp)                                                                                                                ,Governor,,,Blanks,98
+Penobscot,Old Town (and Argyle Twp),Governor,,,Blanks,98
 Penobscot,Orneville Twp (Lagrange),Governor,,,Blanks,0
 Penobscot,Orono,Governor,,,Blanks,158
 Penobscot,Orrington,Governor,,,Blanks,29
@@ -5120,8 +5120,8 @@ Penobscot,Seboeis Plt,Governor,,,Blanks,0
 Penobscot,Springfield,Governor,,,Blanks,1
 Penobscot,Stacyville,Governor,,,Blanks,9
 Penobscot,Stetson,Governor,,,Blanks,11
-Penobscot,T3 ND Twp                                                                                                                                          ,Governor,,,Blanks,0
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                       ",Governor,,,Blanks,0
+Penobscot,T3 ND Twp,Governor,,,Blanks,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",Governor,,,Blanks,0
 Penobscot,Veazie,Governor,,,Blanks,17
 Penobscot,Webster Plt,Governor,,,Blanks,1
 Penobscot,Winn,Governor,,,Blanks,1
@@ -5133,7 +5133,7 @@ Piscataquis,Beaver Cove,Governor,,,Blanks,4
 Piscataquis,Bowerbank,Governor,,,Blanks,3
 Piscataquis,Brownville,Governor,,,Blanks,20
 Piscataquis,Dover-Foxcroft,Governor,,,Blanks,69
-Piscataquis,Elliotsville Twp (Monson)                                                                                                                         ,Governor,,,Blanks,0
+Piscataquis,Elliotsville Twp (Monson),Governor,,,Blanks,0
 Piscataquis,Greenville,Governor,,,Blanks,27
 Piscataquis,Guilford,Governor,,,Blanks,16
 Piscataquis,Kingsbury Plt,Governor,,,Blanks,0
@@ -5174,7 +5174,7 @@ Somerset,Harmony,Governor,,,Blanks,10
 Somerset,Hartland,Governor,,,Blanks,13
 Somerset,Highland Plt,Governor,,,Blanks,3
 Somerset,Jackman,Governor,,,Blanks,15
-Somerset,Lexington/Spring Lake Twps                                                                                                             ,Governor,,,Blanks,0
+Somerset,Lexington/Spring Lake Twps,Governor,,,Blanks,0
 Somerset,Madison,Governor,,,Blanks,37
 Somerset,Mercer,Governor,,,Blanks,4
 Somerset,Moose River,Governor,,,Blanks,2
@@ -5221,7 +5221,7 @@ Waldo,Waldo,Governor,,,Blanks,11
 Waldo,Winterport,Governor,,,Blanks,37
 Washington,Addison,Governor,,,Blanks,7
 Washington,Alexander,Governor,,,Blanks,6
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,Governor,,,Blanks,0
+Washington,Berry/Cathance/Marion Twps (East Machias),Governor,,,Blanks,0
 Washington,Baileyville,Governor,,,Blanks,12
 Washington,Baring Plt,Governor,,,Blanks,2
 Washington,Beals,Governor,,,Blanks,6
@@ -5259,9 +5259,9 @@ Washington,Princeton,Governor,,,Blanks,5
 Washington,Robbinston,Governor,,,Blanks,8
 Washington,Roque Bluffs,Governor,,,Blanks,7
 Washington,Steuben,Governor,,,Blanks,16
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                                           ",Governor,,,Blanks,0
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                        ,Governor,,,Blanks,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                      ,Governor,,,Blanks,0
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",Governor,,,Blanks,0
+Washington,T26 ED BPP Twp (Wesley),Governor,,,Blanks,0
+Washington,T7 SD Twp (Steuben),Governor,,,Blanks,0
 Washington,Talmadge,Governor,,,Blanks,0
 Washington,Topsfield,Governor,,,Blanks,1
 Washington,Vanceboro,Governor,,,Blanks,3
@@ -5799,9 +5799,9 @@ Aroostook,Saint Agatha/Sinclair,State Senate,1,DEM,Troy Dale Jackson,313
 Aroostook,Saint Francis,State Senate,1,DEM,Troy Dale Jackson,174
 Aroostook,Saint John Plt,State Senate,1,DEM,Troy Dale Jackson,90
 Aroostook,Stockholm,State Senate,1,DEM,Troy Dale Jackson,76
-Aroostook,T12 R13 & T9 R8 WELS (Ashland)                                                                                                                               ,State Senate,1,DEM,Troy Dale Jackson,2
-Aroostook,T15 R6 Twp (Eagle Lake)                                                                                                                                        ,State Senate,1,DEM,Troy Dale Jackson,1
-Aroostook,T17 R3 (Van Buren)                                                                                                                             ,State Senate,1,DEM,Troy Dale Jackson,9
+Aroostook,T12 R13 & T9 R8 WELS (Ashland),State Senate,1,DEM,Troy Dale Jackson,2
+Aroostook,T15 R6 Twp (Eagle Lake),State Senate,1,DEM,Troy Dale Jackson,1
+Aroostook,T17 R3 (Van Buren),State Senate,1,DEM,Troy Dale Jackson,9
 Aroostook,Van Buren,State Senate,1,DEM,Troy Dale Jackson,456
 Aroostook,Wade,State Senate,1,DEM,Troy Dale Jackson,57
 Aroostook,Wallagrass,State Senate,1,DEM,Troy Dale Jackson,179
@@ -5838,9 +5838,9 @@ Aroostook,Saint Agatha/Sinclair,State Senate,1,REP,A. Michael Nadeau,168
 Aroostook,Saint Francis,State Senate,1,REP,A. Michael Nadeau,45
 Aroostook,Saint John Plt,State Senate,1,REP,A. Michael Nadeau,38
 Aroostook,Stockholm,State Senate,1,REP,A. Michael Nadeau,53
-Aroostook,T12 R13 & T9 R8 WELS (Ashland)                                                                                                                               ,State Senate,1,REP,A. Michael Nadeau,1
-Aroostook,T15 R6 Twp (Eagle Lake)                                                                                                                                        ,State Senate,1,REP,A. Michael Nadeau,5
-Aroostook,T17 R3 (Van Buren)                                                                                                                             ,State Senate,1,REP,A. Michael Nadeau,6
+Aroostook,T12 R13 & T9 R8 WELS (Ashland),State Senate,1,REP,A. Michael Nadeau,1
+Aroostook,T15 R6 Twp (Eagle Lake),State Senate,1,REP,A. Michael Nadeau,5
+Aroostook,T17 R3 (Van Buren),State Senate,1,REP,A. Michael Nadeau,6
 Aroostook,Van Buren,State Senate,1,REP,A. Michael Nadeau,224
 Aroostook,Wade,State Senate,1,REP,A. Michael Nadeau,55
 Aroostook,Wallagrass,State Senate,1,REP,A. Michael Nadeau,57
@@ -5877,9 +5877,9 @@ Aroostook,Saint Agatha/Sinclair,State Senate,1,,Blanks,10
 Aroostook,Saint Francis,State Senate,1,,Blanks,0
 Aroostook,Saint John Plt,State Senate,1,,Blanks,1
 Aroostook,Stockholm,State Senate,1,,Blanks,4
-Aroostook,T12 R13 & T9 R8 WELS (Ashland)                                                                                                                               ,State Senate,1,,Blanks,0
-Aroostook,T15 R6 Twp (Eagle Lake)                                                                                                                                        ,State Senate,1,,Blanks,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                             ,State Senate,1,,Blanks,0
+Aroostook,T12 R13 & T9 R8 WELS (Ashland),State Senate,1,,Blanks,0
+Aroostook,T15 R6 Twp (Eagle Lake),State Senate,1,,Blanks,0
+Aroostook,T17 R3 (Van Buren),State Senate,1,,Blanks,0
 Aroostook,Van Buren,State Senate,1,,Blanks,47
 Aroostook,Wade,State Senate,1,,Blanks,0
 Aroostook,Wallagrass,State Senate,1,,Blanks,7
@@ -5895,7 +5895,7 @@ Aroostook,Cary Plt,State Senate,2,DEM,Michael E. Carpenter,48
 Aroostook,Chapman,State Senate,2,DEM,Michael E. Carpenter,128
 Aroostook,Crystal,State Senate,2,DEM,Michael E. Carpenter,44
 Aroostook,Dyer Brook,State Senate,2,DEM,Michael E. Carpenter,58
-Aroostook,E Twp (Blaine)                                                                                                                                            ,State Senate,2,DEM,Michael E. Carpenter,19
+Aroostook,E Twp (Blaine),State Senate,2,DEM,Michael E. Carpenter,19
 Aroostook,Easton,State Senate,2,DEM,Michael E. Carpenter,293
 Aroostook,Fort Fairfield,State Senate,2,DEM,Michael E. Carpenter,573
 Aroostook,Glenwood Plt,State Senate,2,DEM,Michael E. Carpenter,0
@@ -5920,15 +5920,15 @@ Aroostook,Presque Isle,State Senate,2,DEM,Michael E. Carpenter,1771
 Aroostook,Reed Plt,State Senate,2,DEM,Michael E. Carpenter,31
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps),State Senate,2,DEM,Michael E. Carpenter,188
 Aroostook,Smyrna,State Senate,2,DEM,Michael E. Carpenter,55
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                                       ,State Senate,2,DEM,Michael E. Carpenter,9
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                      ,State Senate,2,DEM,Michael E. Carpenter,1
-Aroostook,TD R2 TWP                                                                                                                                             ,State Senate,2,DEM,Michael E. Carpenter,5
+Aroostook,T11 R4 WELS Twp (Castle Hill),State Senate,2,DEM,Michael E. Carpenter,9
+Aroostook,T4 R3 Twp (Island Falls),State Senate,2,DEM,Michael E. Carpenter,1
+Aroostook,TD R2 TWP,State Senate,2,DEM,Michael E. Carpenter,5
 Aroostook,Westfield,State Senate,2,DEM,Michael E. Carpenter,108
 Aroostook,Weston,State Senate,2,DEM,Michael E. Carpenter,62
 Penobscot,Carroll Plt,State Senate,2,DEM,Michael E. Carpenter,16
 Penobscot,Drew Plt,State Senate,2,DEM,Michael E. Carpenter,5
 Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),State Senate,2,DEM,Michael E. Carpenter,10
-Penobscot,Herseytown Twp (Stacyville)                                                                                                                                  ,State Senate,2,DEM,Michael E. Carpenter,2
+Penobscot,Herseytown Twp (Stacyville),State Senate,2,DEM,Michael E. Carpenter,2
 Penobscot,Kingman Twp (Webster Plt),State Senate,2,DEM,Michael E. Carpenter,12
 Penobscot,Lakeville,State Senate,2,DEM,Michael E. Carpenter,20
 Penobscot,Lee,State Senate,2,DEM,Michael E. Carpenter,133
@@ -5939,7 +5939,7 @@ Penobscot,Prentiss Twp (Webster Plt),State Senate,2,DEM,Michael E. Carpenter,18
 Penobscot,Patten,State Senate,2,DEM,Michael E. Carpenter,175
 Penobscot,Springfield,State Senate,2,DEM,Michael E. Carpenter,37
 Penobscot,Stacyville,State Senate,2,DEM,Michael E. Carpenter,50
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                   ",State Senate,2,DEM,Michael E. Carpenter,6
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",State Senate,2,DEM,Michael E. Carpenter,6
 Penobscot,Webster Plt,State Senate,2,DEM,Michael E. Carpenter,11
 Penobscot,Winn,State Senate,2,DEM,Michael E. Carpenter,55
 ,UOCAVA,State Senate,2,DEM,Michael E. Carpenter,24
@@ -5950,7 +5950,7 @@ Aroostook,Cary Plt,State Senate,2,REP,Karen Ann Reynolds,51
 Aroostook,Chapman,State Senate,2,REP,Karen Ann Reynolds,95
 Aroostook,Crystal,State Senate,2,REP,Karen Ann Reynolds,67
 Aroostook,Dyer Brook,State Senate,2,REP,Karen Ann Reynolds,49
-Aroostook,E Twp (Blaine)                                                                                                                                            ,State Senate,2,REP,Karen Ann Reynolds,13
+Aroostook,E Twp (Blaine),State Senate,2,REP,Karen Ann Reynolds,13
 Aroostook,Easton,State Senate,2,REP,Karen Ann Reynolds,280
 Aroostook,Fort Fairfield,State Senate,2,REP,Karen Ann Reynolds,790
 Aroostook,Glenwood Plt,State Senate,2,REP,Karen Ann Reynolds,0
@@ -5975,15 +5975,15 @@ Aroostook,Presque Isle,State Senate,2,REP,Karen Ann Reynolds,1482
 Aroostook,Reed Plt,State Senate,2,REP,Karen Ann Reynolds,29
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps),State Senate,2,REP,Karen Ann Reynolds,291
 Aroostook,Smyrna,State Senate,2,REP,Karen Ann Reynolds,68
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                                       ,State Senate,2,REP,Karen Ann Reynolds,6
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                      ,State Senate,2,REP,Karen Ann Reynolds,0
-Aroostook,TD R2 TWP                                                                                                                                             ,State Senate,2,REP,Karen Ann Reynolds,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),State Senate,2,REP,Karen Ann Reynolds,6
+Aroostook,T4 R3 Twp (Island Falls),State Senate,2,REP,Karen Ann Reynolds,0
+Aroostook,TD R2 TWP,State Senate,2,REP,Karen Ann Reynolds,0
 Aroostook,Westfield,State Senate,2,REP,Karen Ann Reynolds,93
 Aroostook,Weston,State Senate,2,REP,Karen Ann Reynolds,70
 Penobscot,Carroll Plt,State Senate,2,REP,Karen Ann Reynolds,51
 Penobscot,Drew Plt,State Senate,2,REP,Karen Ann Reynolds,16
 Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),State Senate,2,REP,Karen Ann Reynolds,13
-Penobscot,Herseytown Twp (Stacyville)                                                                                                                                  ,State Senate,2,REP,Karen Ann Reynolds,13
+Penobscot,Herseytown Twp (Stacyville),State Senate,2,REP,Karen Ann Reynolds,13
 Penobscot,Kingman Twp (Webster Plt),State Senate,2,REP,Karen Ann Reynolds,35
 Penobscot,Lakeville,State Senate,2,REP,Karen Ann Reynolds,36
 Penobscot,Lee,State Senate,2,REP,Karen Ann Reynolds,256
@@ -5994,7 +5994,7 @@ Penobscot,Prentiss Twp (Webster Plt),State Senate,2,REP,Karen Ann Reynolds,40
 Penobscot,Patten,State Senate,2,REP,Karen Ann Reynolds,210
 Penobscot,Springfield,State Senate,2,REP,Karen Ann Reynolds,81
 Penobscot,Stacyville,State Senate,2,REP,Karen Ann Reynolds,88
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                   ",State Senate,2,REP,Karen Ann Reynolds,5
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",State Senate,2,REP,Karen Ann Reynolds,5
 Penobscot,Webster Plt,State Senate,2,REP,Karen Ann Reynolds,19
 Penobscot,Winn,State Senate,2,REP,Karen Ann Reynolds,91
 ,UOCAVA,State Senate,2,REP,Karen Ann Reynolds,13
@@ -6005,7 +6005,7 @@ Aroostook,Cary Plt,State Senate,2,,Blanks,10
 Aroostook,Chapman,State Senate,2,,Blanks,5
 Aroostook,Crystal,State Senate,2,,Blanks,1
 Aroostook,Dyer Brook,State Senate,2,,Blanks,3
-Aroostook,E Twp (Blaine)                                                                                                                                            ,State Senate,2,,Blanks,0
+Aroostook,E Twp (Blaine),State Senate,2,,Blanks,0
 Aroostook,Easton,State Senate,2,,Blanks,8
 Aroostook,Fort Fairfield,State Senate,2,,Blanks,23
 Aroostook,Glenwood Plt,State Senate,2,,Blanks,0
@@ -6030,15 +6030,15 @@ Aroostook,Presque Isle,State Senate,2,,Blanks,118
 Aroostook,Reed Plt,State Senate,2,,Blanks,2
 Aroostook,Sherman (and Benedicta & Silver Ridge Twps),State Senate,2,,Blanks,13
 Aroostook,Smyrna,State Senate,2,,Blanks,0
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                                       ,State Senate,2,,Blanks,0
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                      ,State Senate,2,,Blanks,0
-Aroostook,TD R2 TWP                                                                                                                                             ,State Senate,2,,Blanks,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),State Senate,2,,Blanks,0
+Aroostook,T4 R3 Twp (Island Falls),State Senate,2,,Blanks,0
+Aroostook,TD R2 TWP,State Senate,2,,Blanks,0
 Aroostook,Westfield,State Senate,2,,Blanks,7
 Aroostook,Weston,State Senate,2,,Blanks,2
 Penobscot,Carroll Plt,State Senate,2,,Blanks,5
 Penobscot,Drew Plt,State Senate,2,,Blanks,0
 Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),State Senate,2,,Blanks,0
-Penobscot,Herseytown Twp (Stacyville)                                                                                                                                  ,State Senate,2,,Blanks,1
+Penobscot,Herseytown Twp (Stacyville),State Senate,2,,Blanks,1
 Penobscot,Kingman Twp (Webster Plt),State Senate,2,,Blanks,2
 Penobscot,Lakeville,State Senate,2,,Blanks,0
 Penobscot,Lee,State Senate,2,,Blanks,11
@@ -6049,14 +6049,14 @@ Penobscot,Prentiss Twp (Webster Plt),State Senate,2,,Blanks,0
 Penobscot,Patten,State Senate,2,,Blanks,8
 Penobscot,Springfield,State Senate,2,,Blanks,7
 Penobscot,Stacyville,State Senate,2,,Blanks,13
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                   ",State Senate,2,,Blanks,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",State Senate,2,,Blanks,0
 Penobscot,Webster Plt,State Senate,2,,Blanks,2
 Penobscot,Winn,State Senate,2,,Blanks,9
 ,UOCAVA,State Senate,2,,Blanks,0
 Kennebec,Rome,State Senate,3,REP,Bradlee Thomas Farrin,254
 Somerset,Anson,State Senate,3,REP,Bradlee Thomas Farrin,547
 Somerset,Bingham,State Senate,3,REP,Bradlee Thomas Farrin,265
-Somerset,Concord Twp                                                                                                                                    ,State Senate,3,REP,Bradlee Thomas Farrin,1
+Somerset,Concord Twp,State Senate,3,REP,Bradlee Thomas Farrin,1
 Somerset,Canaan,State Senate,3,REP,Bradlee Thomas Farrin,487
 Somerset,Caratunk,State Senate,3,REP,Bradlee Thomas Farrin,27
 Somerset,Cornville,State Senate,3,REP,Bradlee Thomas Farrin,349
@@ -6064,7 +6064,7 @@ Somerset,Dennistown Plt,State Senate,3,REP,Bradlee Thomas Farrin,15
 Somerset,Embden,State Senate,3,REP,Bradlee Thomas Farrin,290
 Somerset,Highland Plt,State Senate,3,REP,Bradlee Thomas Farrin,59
 Somerset,Jackman,State Senate,3,REP,Bradlee Thomas Farrin,281
-Somerset,Lexington & Spring Lake Twps                                                                                                                       ,State Senate,3,REP,Bradlee Thomas Farrin,20
+Somerset,Lexington & Spring Lake Twps,State Senate,3,REP,Bradlee Thomas Farrin,20
 Somerset,Madison,State Senate,3,REP,Bradlee Thomas Farrin,1208
 Somerset,Mercer,State Senate,3,REP,Bradlee Thomas Farrin,221
 Somerset,Moose River,State Senate,3,REP,Bradlee Thomas Farrin,73
@@ -6084,7 +6084,7 @@ Somerset,West Forks Plt,State Senate,3,REP,Bradlee Thomas Farrin,24
 Kennebec,Rome,State Senate,3,DEM,Jeffrey B. Johnson,256
 Somerset,Anson,State Senate,3,DEM,Jeffrey B. Johnson,317
 Somerset,Bingham,State Senate,3,DEM,Jeffrey B. Johnson,156
-Somerset,Concord Twp                                                                                                                                    ,State Senate,3,DEM,Jeffrey B. Johnson,0
+Somerset,Concord Twp,State Senate,3,DEM,Jeffrey B. Johnson,0
 Somerset,Canaan,State Senate,3,DEM,Jeffrey B. Johnson,333
 Somerset,Caratunk,State Senate,3,DEM,Jeffrey B. Johnson,15
 Somerset,Cornville,State Senate,3,DEM,Jeffrey B. Johnson,228
@@ -6092,7 +6092,7 @@ Somerset,Dennistown Plt,State Senate,3,DEM,Jeffrey B. Johnson,3
 Somerset,Embden,State Senate,3,DEM,Jeffrey B. Johnson,134
 Somerset,Highland Plt,State Senate,3,DEM,Jeffrey B. Johnson,38
 Somerset,Jackman,State Senate,3,DEM,Jeffrey B. Johnson,114
-Somerset,Lexington & Spring Lake Twps                                                                                                                       ,State Senate,3,DEM,Jeffrey B. Johnson,4
+Somerset,Lexington & Spring Lake Twps,State Senate,3,DEM,Jeffrey B. Johnson,4
 Somerset,Madison,State Senate,3,DEM,Jeffrey B. Johnson,638
 Somerset,Mercer,State Senate,3,DEM,Jeffrey B. Johnson,141
 Somerset,Moose River,State Senate,3,DEM,Jeffrey B. Johnson,10
@@ -6112,7 +6112,7 @@ Somerset,West Forks Plt,State Senate,3,DEM,Jeffrey B. Johnson,17
 Kennebec,Rome,State Senate,3,,Blanks,25
 Somerset,Anson,State Senate,3,,Blanks,38
 Somerset,Bingham,State Senate,3,,Blanks,26
-Somerset,Concord Twp                                                                                                                                    ,State Senate,3,,Blanks,0
+Somerset,Concord Twp,State Senate,3,,Blanks,0
 Somerset,Canaan,State Senate,3,,Blanks,31
 Somerset,Caratunk,State Senate,3,,Blanks,3
 Somerset,Cornville,State Senate,3,,Blanks,11
@@ -6120,7 +6120,7 @@ Somerset,Dennistown Plt,State Senate,3,,Blanks,1
 Somerset,Embden,State Senate,3,,Blanks,20
 Somerset,Highland Plt,State Senate,3,,Blanks,5
 Somerset,Jackman,State Senate,3,,Blanks,22
-Somerset,Lexington & Spring Lake Twps                                                                                                                       ,State Senate,3,,Blanks,0
+Somerset,Lexington & Spring Lake Twps,State Senate,3,,Blanks,0
 Somerset,Madison,State Senate,3,,Blanks,29
 Somerset,Mercer,State Senate,3,,Blanks,7
 Somerset,Moose River,State Senate,3,,Blanks,4
@@ -6267,7 +6267,7 @@ Penobscot,Maxfield,State Senate,5,MSP,Maia R. Dendinger,0
 Penobscot,Medway,State Senate,5,MSP,Maia R. Dendinger,13
 Penobscot,Milford (and Greenfield Twp),State Senate,5,MSP,Maia R. Dendinger,74
 Penobscot,Millinocket,State Senate,5,MSP,Maia R. Dendinger,30
-Penobscot,Millinocket Penobscot Twps                                                                                                                ,State Senate,5,MSP,Maia R. Dendinger,0
+Penobscot,Millinocket Penobscot Twps,State Senate,5,MSP,Maia R. Dendinger,0
 Penobscot,Old Town (and Argyle Twp),State Senate,5,MSP,Maia R. Dendinger,213
 Penobscot,Orono,State Senate,5,MSP,Maia R. Dendinger,571
 Penobscot,Passadumkeag,State Senate,5,MSP,Maia R. Dendinger,7
@@ -6289,7 +6289,7 @@ Penobscot,Maxfield,State Senate,5,DEM,James F. Dill,19
 Penobscot,Medway,State Senate,5,DEM,James F. Dill,199
 Penobscot,Milford (and Greenfield Twp),State Senate,5,DEM,James F. Dill,804
 Penobscot,Millinocket,State Senate,5,DEM,James F. Dill,749
-Penobscot,Millinocket Penobscot Twps                                                                                                                ,State Senate,5,DEM,James F. Dill,50
+Penobscot,Millinocket Penobscot Twps,State Senate,5,DEM,James F. Dill,50
 Penobscot,Old Town (and Argyle Twp),State Senate,5,DEM,James F. Dill,"2,060"
 Penobscot,Orono,State Senate,5,DEM,James F. Dill,"2,741"
 Penobscot,Passadumkeag,State Senate,5,DEM,James F. Dill,68
@@ -6311,7 +6311,7 @@ Penobscot,Maxfield,State Senate,5,REP,Debbi J. Perkins,26
 Penobscot,Medway,State Senate,5,REP,Debbi J. Perkins,344
 Penobscot,Milford (and Greenfield Twp),State Senate,5,REP,Debbi J. Perkins,415
 Penobscot,Millinocket,State Senate,5,REP,Debbi J. Perkins,"1,048"
-Penobscot,Millinocket Penobscot Twps                                                                                                                ,State Senate,5,REP,Debbi J. Perkins,60
+Penobscot,Millinocket Penobscot Twps,State Senate,5,REP,Debbi J. Perkins,60
 Penobscot,Old Town (and Argyle Twp),State Senate,5,REP,Debbi J. Perkins,820
 Penobscot,Orono,State Senate,5,REP,Debbi J. Perkins,916
 Penobscot,Passadumkeag,State Senate,5,REP,Debbi J. Perkins,95
@@ -6333,7 +6333,7 @@ Penobscot,Maxfield,State Senate,5,,Blanks,2
 Penobscot,Medway,State Senate,5,,Blanks,16
 Penobscot,Milford (and Greenfield Twp),State Senate,5,,Blanks,32
 Penobscot,Millinocket,State Senate,5,,Blanks,48
-Penobscot,Millinocket Penobscot Twps                                                                                                                ,State Senate,5,,Blanks,5
+Penobscot,Millinocket Penobscot Twps,State Senate,5,,Blanks,5
 Penobscot,Old Town (and Argyle Twp),State Senate,5,,Blanks,108
 Penobscot,Orono,State Senate,5,,Blanks,176
 Penobscot,Passadumkeag,State Senate,5,,Blanks,5
@@ -6347,7 +6347,7 @@ Hancock,Sullivan,State Senate,6,REP,Marianne Moore,262
 Hancock,Winter Harbor,State Senate,6,REP,Marianne Moore,149
 Washington,Addison,State Senate,6,REP,Marianne Moore,310
 Washington,Alexander,State Senate,6,REP,Marianne Moore,193
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,State Senate,6,REP,Marianne Moore,27
+Washington,Berry/Cathance/Marion Twps (East Machias),State Senate,6,REP,Marianne Moore,27
 Washington,Baileyville,State Senate,6,REP,Marianne Moore,407
 Washington,Baring Plt,State Senate,6,REP,Marianne Moore,55
 Washington,Beals,State Senate,6,REP,Marianne Moore,123
@@ -6385,8 +6385,8 @@ Washington,Princeton,State Senate,6,REP,Marianne Moore,277
 Washington,Robbinston,State Senate,6,REP,Marianne Moore,200
 Washington,Roque Bluffs,State Senate,6,REP,Marianne Moore,65
 Washington,Steuben,State Senate,6,REP,Marianne Moore,276
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                                   ,State Senate,6,REP,Marianne Moore,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                       ,State Senate,6,REP,Marianne Moore,4
+Washington,T26 ED BPP Twp (Wesley),State Senate,6,REP,Marianne Moore,0
+Washington,T7 SD Twp (Steuben),State Senate,6,REP,Marianne Moore,4
 Washington,Talmadge,State Senate,6,REP,Marianne Moore,26
 Washington,Topsfield,State Senate,6,REP,Marianne Moore,84
 Washington,Vanceboro,State Senate,6,REP,Marianne Moore,50
@@ -6400,7 +6400,7 @@ Hancock,Sullivan,State Senate,6,DEM,Christina Marie Therrien,282
 Hancock,Winter Harbor,State Senate,6,DEM,Christina Marie Therrien,113
 Washington,Addison,State Senate,6,DEM,Christina Marie Therrien,220
 Washington,Alexander,State Senate,6,DEM,Christina Marie Therrien,45
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,State Senate,6,DEM,Christina Marie Therrien,17
+Washington,Berry/Cathance/Marion Twps (East Machias),State Senate,6,DEM,Christina Marie Therrien,17
 Washington,Baileyville,State Senate,6,DEM,Christina Marie Therrien,115
 Washington,Baring Plt,State Senate,6,DEM,Christina Marie Therrien,29
 Washington,Beals,State Senate,6,DEM,Christina Marie Therrien,78
@@ -6438,8 +6438,8 @@ Washington,Princeton,State Senate,6,DEM,Christina Marie Therrien,64
 Washington,Robbinston,State Senate,6,DEM,Christina Marie Therrien,68
 Washington,Roque Bluffs,State Senate,6,DEM,Christina Marie Therrien,82
 Washington,Steuben,State Senate,6,DEM,Christina Marie Therrien,189
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                                   ,State Senate,6,DEM,Christina Marie Therrien,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                       ,State Senate,6,DEM,Christina Marie Therrien,1
+Washington,T26 ED BPP Twp (Wesley),State Senate,6,DEM,Christina Marie Therrien,0
+Washington,T7 SD Twp (Steuben),State Senate,6,DEM,Christina Marie Therrien,1
 Washington,Talmadge,State Senate,6,DEM,Christina Marie Therrien,5
 Washington,Topsfield,State Senate,6,DEM,Christina Marie Therrien,12
 Washington,Vanceboro,State Senate,6,DEM,Christina Marie Therrien,18
@@ -6453,7 +6453,7 @@ Hancock,Sullivan,State Senate,6,,Blanks,26
 Hancock,Winter Harbor,State Senate,6,,Blanks,21
 Washington,Addison,State Senate,6,,Blanks,22
 Washington,Alexander,State Senate,6,,Blanks,4
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,State Senate,6,,Blanks,1
+Washington,Berry/Cathance/Marion Twps (East Machias),State Senate,6,,Blanks,1
 Washington,Baileyville,State Senate,6,,Blanks,14
 Washington,Baring Plt,State Senate,6,,Blanks,2
 Washington,Beals,State Senate,6,,Blanks,17
@@ -6491,8 +6491,8 @@ Washington,Princeton,State Senate,6,,Blanks,12
 Washington,Robbinston,State Senate,6,,Blanks,9
 Washington,Roque Bluffs,State Senate,6,,Blanks,7
 Washington,Steuben,State Senate,6,,Blanks,30
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                                   ,State Senate,6,,Blanks,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                       ,State Senate,6,,Blanks,0
+Washington,T26 ED BPP Twp (Wesley),State Senate,6,,Blanks,0
+Washington,T7 SD Twp (Steuben),State Senate,6,,Blanks,0
 Washington,Talmadge,State Senate,6,,Blanks,1
 Washington,Topsfield,State Senate,6,,Blanks,4
 Washington,Vanceboro,State Senate,6,,Blanks,6
@@ -6525,8 +6525,8 @@ Hancock,Southwest Harbor,State Senate,7,DEM,Louis Joseph Luchini,638
 Hancock,Stonington,State Senate,7,DEM,Louis Joseph Luchini,349
 Hancock,Surry,State Senate,7,DEM,Louis Joseph Luchini,558
 Hancock,Swans Island,State Senate,7,DEM,Louis Joseph Luchini,94
-Hancock,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                             ",State Senate,7,DEM,Louis Joseph Luchini,2
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                                       ,State Senate,7,DEM,Louis Joseph Luchini,3
+Hancock,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",State Senate,7,DEM,Louis Joseph Luchini,2
+Hancock,T22 MD Twp (Beddington & Osborn),State Senate,7,DEM,Louis Joseph Luchini,3
 Hancock,Tremont,State Senate,7,DEM,Louis Joseph Luchini,509
 Hancock,Trenton,State Senate,7,DEM,Louis Joseph Luchini,441
 Hancock,Waltham,State Senate,7,DEM,Louis Joseph Luchini,67
@@ -6555,8 +6555,8 @@ Hancock,Southwest Harbor,State Senate,7,REP,Richard S. Malaby,319
 Hancock,Stonington,State Senate,7,REP,Richard S. Malaby,155
 Hancock,Surry,State Senate,7,REP,Richard S. Malaby,340
 Hancock,Swans Island,State Senate,7,REP,Richard S. Malaby,109
-Hancock,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                             ",State Senate,7,REP,Richard S. Malaby,8
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                                       ,State Senate,7,REP,Richard S. Malaby,1
+Hancock,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",State Senate,7,REP,Richard S. Malaby,8
+Hancock,T22 MD Twp (Beddington & Osborn),State Senate,7,REP,Richard S. Malaby,1
 Hancock,Tremont,State Senate,7,REP,Richard S. Malaby,307
 Hancock,Trenton,State Senate,7,REP,Richard S. Malaby,312
 Hancock,Waltham,State Senate,7,REP,Richard S. Malaby,107
@@ -6585,8 +6585,8 @@ Hancock,Southwest Harbor,State Senate,7,,Blanks,32
 Hancock,Stonington,State Senate,7,,Blanks,15
 Hancock,Surry,State Senate,7,,Blanks,10
 Hancock,Swans Island,State Senate,7,,Blanks,12
-Hancock,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                             ",State Senate,7,,Blanks,0
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                                       ,State Senate,7,,Blanks,2
+Hancock,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",State Senate,7,,Blanks,0
+Hancock,T22 MD Twp (Beddington & Osborn),State Senate,7,,Blanks,2
 Hancock,Tremont,State Senate,7,,Blanks,23
 Hancock,Trenton,State Senate,7,,Blanks,23
 Hancock,Waltham,State Senate,7,,Blanks,4
@@ -6603,13 +6603,13 @@ Penobscot,Brewer,State Senate,8,REP,Kimberley C. Rosen,"1,980"
 Penobscot,Burlington,State Senate,8,REP,Kimberley C. Rosen,99
 Penobscot,Clifton,State Senate,8,REP,Kimberley C. Rosen,238
 Penobscot,Eddington,State Senate,8,REP,Kimberley C. Rosen,706
-Penobscot,Grand Falls Twp (Burlington)                                                                                                                                  ,State Senate,8,REP,Kimberley C. Rosen,8
+Penobscot,Grand Falls Twp (Burlington),State Senate,8,REP,Kimberley C. Rosen,8
 Penobscot,Greenfield Twp,State Senate,8,REP,Kimberley C. Rosen,80
 Penobscot,Holden,State Senate,8,REP,Kimberley C. Rosen,"1,061"
 Penobscot,Lincoln,State Senate,8,REP,Kimberley C. Rosen,"1,250"
 Penobscot,Lowell,State Senate,8,REP,Kimberley C. Rosen,143
 Penobscot,Orrington,State Senate,8,REP,Kimberley C. Rosen,"1,252"
-Penobscot,T3 ND Twp                                                                                                                                         ,State Senate,8,REP,Kimberley C. Rosen,2
+Penobscot,T3 ND Twp,State Senate,8,REP,Kimberley C. Rosen,2
 ,STATE UOCAVA,State Senate,8,REP,Kimberley C. Rosen,10
 Hancock,Bucksport,State Senate,8,DEM,Beverly B. Uhlenhake,760
 Hancock,Castine,State Senate,8,DEM,Beverly B. Uhlenhake,266
@@ -6623,13 +6623,13 @@ Penobscot,Brewer,State Senate,8,DEM,Beverly B. Uhlenhake,"1,995"
 Penobscot,Burlington,State Senate,8,DEM,Beverly B. Uhlenhake,43
 Penobscot,Clifton,State Senate,8,DEM,Beverly B. Uhlenhake,151
 Penobscot,Eddington,State Senate,8,DEM,Beverly B. Uhlenhake,403
-Penobscot,Grand Falls Twp (Burlington)                                                                                                                                  ,State Senate,8,DEM,Beverly B. Uhlenhake,4
+Penobscot,Grand Falls Twp (Burlington),State Senate,8,DEM,Beverly B. Uhlenhake,4
 Penobscot,Greenfield Twp,State Senate,8,DEM,Beverly B. Uhlenhake,27
 Penobscot,Holden,State Senate,8,DEM,Beverly B. Uhlenhake,665
 Penobscot,Lincoln,State Senate,8,DEM,Beverly B. Uhlenhake,600
 Penobscot,Lowell,State Senate,8,DEM,Beverly B. Uhlenhake,47
 Penobscot,Orrington,State Senate,8,DEM,Beverly B. Uhlenhake,760
-Penobscot,T3 ND Twp                                                                                                                                         ,State Senate,8,DEM,Beverly B. Uhlenhake,3
+Penobscot,T3 ND Twp,State Senate,8,DEM,Beverly B. Uhlenhake,3
 ,STATE UOCAVA,State Senate,8,DEM,Beverly B. Uhlenhake,50
 Hancock,Bucksport,State Senate,8,,Blanks,38
 Hancock,Castine,State Senate,8,,Blanks,6
@@ -6643,13 +6643,13 @@ Penobscot,Brewer,State Senate,8,,Blanks,117
 Penobscot,Burlington,State Senate,8,,Blanks,11
 Penobscot,Clifton,State Senate,8,,Blanks,10
 Penobscot,Eddington,State Senate,8,,Blanks,25
-Penobscot,Grand Falls Twp (Burlington)                                                                                                                                  ,State Senate,8,,Blanks,0
+Penobscot,Grand Falls Twp (Burlington),State Senate,8,,Blanks,0
 Penobscot,Greenfield Twp,State Senate,8,,Blanks,0
 Penobscot,Holden,State Senate,8,,Blanks,43
 Penobscot,Lincoln,State Senate,8,,Blanks,89
 Penobscot,Lowell,State Senate,8,,Blanks,6
 Penobscot,Orrington,State Senate,8,,Blanks,39
-Penobscot,T3 ND Twp                                                                                                                                         ,State Senate,8,,Blanks,0
+Penobscot,T3 ND Twp,State Senate,8,,Blanks,0
 ,STATE UOCAVA,State Senate,8,,Blanks,0
 Penobscot,Bangor,State Senate,9,DEM,Geoffrey M. Gratwick,"7,862"
 Penobscot,Hermon,State Senate,9,DEM,Geoffrey M. Gratwick,"1,277"
@@ -7098,7 +7098,7 @@ Kennebec,Vienna,State Senate,17,,Blanks,6
 Androscoggin,Livermore,State Senate,18,REP,Lisa M. Keim,737
 Androscoggin,Livermore Falls,State Senate,18,REP,Lisa M. Keim,643
 Oxford,Adamstown/Lower Cupsuptic Twps (Rangeley),State Senate,18,REP,Lisa M. Keim,3
-Oxford,Albany Twp ,State Senate,18,REP,Lisa M. Keim,131
+Oxford,Albany Twp,State Senate,18,REP,Lisa M. Keim,131
 Oxford,Andover,State Senate,18,REP,Lisa M. Keim,295
 Oxford,Bethel,State Senate,18,REP,Lisa M. Keim,752
 Oxford,Buckfield,State Senate,18,REP,Lisa M. Keim,583
@@ -7131,7 +7131,7 @@ Oxford,Woodstock,State Senate,18,REP,Lisa M. Keim,421
 Androscoggin,Livermore,State Senate,18,DEM,James F. Wilfong,340
 Androscoggin,Livermore Falls,State Senate,18,DEM,James F. Wilfong,402
 Oxford,Adamstown/Lower Cupsuptic Twps (Rangeley),State Senate,18,DEM,James F. Wilfong,2
-Oxford,Albany Twp ,State Senate,18,DEM,James F. Wilfong,112
+Oxford,Albany Twp,State Senate,18,DEM,James F. Wilfong,112
 Oxford,Andover,State Senate,18,DEM,James F. Wilfong,135
 Oxford,Bethel,State Senate,18,DEM,James F. Wilfong,677
 Oxford,Buckfield,State Senate,18,DEM,James F. Wilfong,310
@@ -7164,7 +7164,7 @@ Oxford,Woodstock,State Senate,18,DEM,James F. Wilfong,205
 Androscoggin,Livermore,State Senate,18,,Blanks,43
 Androscoggin,Livermore Falls,State Senate,18,,Blanks,27
 Oxford,Adamstown/Lower Cupsuptic Twps (Rangeley),State Senate,18,,Blanks,0
-Oxford,Albany Twp ,State Senate,18,,Blanks,9
+Oxford,Albany Twp,State Senate,18,,Blanks,9
 Oxford,Andover,State Senate,18,,Blanks,13
 Oxford,Bethel,State Senate,18,,Blanks,35
 Oxford,Buckfield,State Senate,18,,Blanks,24
@@ -8853,7 +8853,7 @@ Somerset,Embden,State House,118,REP,Chad Wayne Grignon,268
 Somerset,Harmony,State House,118,REP,Chad Wayne Grignon,267
 Somerset,Highland Plt,State House,118,REP,Chad Wayne Grignon,56
 Somerset,Jackman,State House,118,REP,Chad Wayne Grignon,282
-Somerset,Lexington & Spring Lake Twps                                                                                                                       ,State House,118,REP,Chad Wayne Grignon,17
+Somerset,Lexington & Spring Lake Twps,State House,118,REP,Chad Wayne Grignon,17
 Somerset,Moose River,State House,118,REP,Chad Wayne Grignon,74
 Somerset,Moscow,State House,118,REP,Chad Wayne Grignon,105
 Somerset,Pleasant Ridge Plt,State House,118,REP,Chad Wayne Grignon,27
@@ -8875,7 +8875,7 @@ Somerset,Embden,State House,118,DEM,John Thiele,154
 Somerset,Harmony,State House,118,DEM,John Thiele,104
 Somerset,Highland Plt,State House,118,DEM,John Thiele,39
 Somerset,Jackman,State House,118,DEM,John Thiele,107
-Somerset,Lexington & Spring Lake Twps                                                                                                                       ,State House,118,DEM,John Thiele,7
+Somerset,Lexington & Spring Lake Twps,State House,118,DEM,John Thiele,7
 Somerset,Moose River,State House,118,DEM,John Thiele,9
 Somerset,Moscow,State House,118,DEM,John Thiele,84
 Somerset,Pleasant Ridge Plt,State House,118,DEM,John Thiele,13
@@ -8897,7 +8897,7 @@ Somerset,Embden,State House,118,,Blanks,22
 Somerset,Harmony,State House,118,,Blanks,18
 Somerset,Highland Plt,State House,118,,Blanks,7
 Somerset,Jackman,State House,118,,Blanks,28
-Somerset,Lexington & Spring Lake Twps                                                                                                                       ,State House,118,,Blanks,0
+Somerset,Lexington & Spring Lake Twps,State House,118,,Blanks,0
 Somerset,Moose River,State House,118,,Blanks,4
 Somerset,Moscow,State House,118,,Blanks,14
 Somerset,Pleasant Ridge Plt,State House,118,,Blanks,2
@@ -8991,28 +8991,28 @@ Piscataquis,Orneville Twp (Lagrange),State House,120,,Blanks,0
 ,STATE UOCAVA,State House,120,,Blanks,0
 Penobscot,Alton,State House,121,DEM,Terri Jane Casavant,102
 Penobscot,"Argyle Twp (Alton, Edinburg & Penobscot Nation Voting District)",State House,121,DEM,Terri Jane Casavant,12
-Penobscot,Argyle Twp ,State House,121,DEM,Terri Jane Casavant,18
+Penobscot,Argyle Twp,State House,121,DEM,Terri Jane Casavant,18
 Penobscot,Corinth,State House,121,DEM,Terri Jane Casavant,425
 Penobscot,Hudson,State House,121,DEM,Terri Jane Casavant,184
 Penobscot,Milford,State House,121,DEM,Terri Jane Casavant,460
 ,STATE UOCAVA,State House,121,DEM,Terri Jane Casavant,7
 Penobscot,Alton,State House,121,REP,Gary A. Drinkwater,237
 Penobscot,"Argyle Twp (Alton, Edinburg & Penobscot Nation Voting District)",State House,121,REP,Gary A. Drinkwater,31
-Penobscot,Argyle Twp ,State House,121,REP,Gary A. Drinkwater,30
+Penobscot,Argyle Twp,State House,121,REP,Gary A. Drinkwater,30
 Penobscot,Corinth,State House,121,REP,Gary A. Drinkwater,685
 Penobscot,Hudson,State House,121,REP,Gary A. Drinkwater,391
 Penobscot,Milford,State House,121,REP,Gary A. Drinkwater,768
 ,STATE UOCAVA,State House,121,REP,Gary A. Drinkwater,1
 Penobscot,Alton,State House,121,,Bonnie Lee Young,27
 Penobscot,"Argyle Twp (Alton, Edinburg & Penobscot Nation Voting District)",State House,121,,Bonnie Lee Young,22
-Penobscot,Argyle Twp ,State House,121,,Bonnie Lee Young,10
+Penobscot,Argyle Twp,State House,121,,Bonnie Lee Young,10
 Penobscot,Corinth,State House,121,,Bonnie Lee Young,17
 Penobscot,Hudson,State House,121,,Bonnie Lee Young,16
 Penobscot,Milford,State House,121,,Bonnie Lee Young,61
 ,STATE UOCAVA,State House,121,,Bonnie Lee Young,1
 Penobscot,Alton,State House,121,,Blanks,5
 Penobscot,"Argyle Twp (Alton, Edinburg & Penobscot Nation Voting District)",State House,121,,Blanks,3
-Penobscot,Argyle Twp ,State House,121,,Blanks,0
+Penobscot,Argyle Twp,State House,121,,Blanks,0
 Penobscot,Corinth,State House,121,,Blanks,35
 Penobscot,Hudson,State House,121,,Blanks,17
 Penobscot,Milford,State House,121,,Blanks,34
@@ -9197,8 +9197,8 @@ Hancock,Sullivan,State House,136,DEM,Kylie A. Bragdon,280
 Hancock,Waltham,State House,136,DEM,Kylie A. Bragdon,41
 Hancock,Winter Harbor,State House,136,DEM,Kylie A. Bragdon,107
 Washington,Steuben,State House,136,DEM,Kylie A. Bragdon,188
-Washington,T10 SD TWP                                                                                                                                            ,State House,136,DEM,Kylie A. Bragdon,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                       ,State House,136,DEM,Kylie A. Bragdon,3
+Washington,T10 SD TWP,State House,136,DEM,Kylie A. Bragdon,0
+Washington,T7 SD Twp (Steuben),State House,136,DEM,Kylie A. Bragdon,3
 ,STATE UOCAVA,State House,136,DEM,Kylie A. Bragdon,29
 Hancock,Ellsworth,State House,136,REP,William R. Faulkingham,34
 Hancock,Gouldsboro,State House,136,REP,William R. Faulkingham,508
@@ -9210,8 +9210,8 @@ Hancock,Sullivan,State House,136,REP,William R. Faulkingham,277
 Hancock,Waltham,State House,136,REP,William R. Faulkingham,133
 Hancock,Winter Harbor,State House,136,REP,William R. Faulkingham,164
 Washington,Steuben,State House,136,REP,William R. Faulkingham,288
-Washington,T10 SD TWP                                                                                                                                            ,State House,136,REP,William R. Faulkingham,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                       ,State House,136,REP,William R. Faulkingham,2
+Washington,T10 SD TWP,State House,136,REP,William R. Faulkingham,0
+Washington,T7 SD Twp (Steuben),State House,136,REP,William R. Faulkingham,2
 ,STATE UOCAVA,State House,136,REP,William R. Faulkingham,7
 Hancock,Ellsworth,State House,136,,Blanks,2
 Hancock,Gouldsboro,State House,136,,Blanks,6
@@ -9223,28 +9223,28 @@ Hancock,Sullivan,State House,136,,Blanks,13
 Hancock,Waltham,State House,136,,Blanks,4
 Hancock,Winter Harbor,State House,136,,Blanks,12
 Washington,Steuben,State House,136,,Blanks,19
-Washington,T10 SD TWP                                                                                                                                            ,State House,136,,Blanks,0
-Washington,T7 SD Twp (Steuben)                                                                                                                                       ,State House,136,,Blanks,0
+Washington,T10 SD TWP,State House,136,,Blanks,0
+Washington,T7 SD Twp (Steuben),State House,136,,Blanks,0
 ,STATE UOCAVA,State House,136,,Blanks,0
 Hancock,Amherst,State House,137,DEM,Douglas S. Bunker,52
 Hancock,Aurora,State House,137,DEM,Douglas S. Bunker,21
 Hancock,Eastbrook,State House,137,DEM,Douglas S. Bunker,78
 Hancock,Franklin,State House,137,DEM,Douglas S. Bunker,372
 Hancock,Great Pond,State House,137,DEM,Douglas S. Bunker,15
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                                       ,State House,137,DEM,Douglas S. Bunker,3
+Hancock,T22 MD Twp (Beddington & Osborn),State House,137,DEM,Douglas S. Bunker,3
 Penobscot,Bradford,State House,137,DEM,Douglas S. Bunker,164
 Penobscot,Bradley,State House,137,DEM,Douglas S. Bunker,308
 Penobscot,Edinburg,State House,137,DEM,Douglas S. Bunker,23
-Penobscot,Grand Falls Twp (Burlington)                                                                                                                                  ,State House,137,DEM,Douglas S. Bunker,7
+Penobscot,Grand Falls Twp (Burlington),State House,137,DEM,Douglas S. Bunker,7
 Penobscot,Greenbush,State House,137,DEM,Douglas S. Bunker,144
 Penobscot,Greenfield Twp,State House,137,DEM,Douglas S. Bunker,32
 Penobscot,Lagrange,State House,137,DEM,Douglas S. Bunker,100
 Penobscot,Passadumkeag,State House,137,DEM,Douglas S. Bunker,50
-Penobscot,T3 ND Twp                                                                                                                                            ,State House,137,DEM,Douglas S. Bunker,3
+Penobscot,T3 ND Twp,State House,137,DEM,Douglas S. Bunker,3
 Washington,Beddington,State House,137,DEM,Douglas S. Bunker,10
 Washington,Deblois,State House,137,DEM,Douglas S. Bunker,6
 Washington,Northfield,State House,137,DEM,Douglas S. Bunker,42
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                             ",State House,137,DEM,Douglas S. Bunker,2
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",State House,137,DEM,Douglas S. Bunker,2
 Washington,Wesley,State House,137,DEM,Douglas S. Bunker,34
 ,STATE UOCAVA,State House,137,DEM,Douglas S. Bunker,2
 Hancock,Amherst,State House,137,REP,Lawrence E. Lockman,85
@@ -9252,20 +9252,20 @@ Hancock,Aurora,State House,137,REP,Lawrence E. Lockman,35
 Hancock,Eastbrook,State House,137,REP,Lawrence E. Lockman,79
 Hancock,Franklin,State House,137,REP,Lawrence E. Lockman,284
 Hancock,Great Pond,State House,137,REP,Lawrence E. Lockman,20
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                                       ,State House,137,REP,Lawrence E. Lockman,2
+Hancock,T22 MD Twp (Beddington & Osborn),State House,137,REP,Lawrence E. Lockman,2
 Penobscot,Bradford,State House,137,REP,Lawrence E. Lockman,348
 Penobscot,Bradley,State House,137,REP,Lawrence E. Lockman,346
 Penobscot,Edinburg,State House,137,REP,Lawrence E. Lockman,42
-Penobscot,Grand Falls Twp (Burlington)                                                                                                                                  ,State House,137,REP,Lawrence E. Lockman,4
+Penobscot,Grand Falls Twp (Burlington),State House,137,REP,Lawrence E. Lockman,4
 Penobscot,Greenbush,State House,137,REP,Lawrence E. Lockman,370
 Penobscot,Greenfield Twp,State House,137,REP,Lawrence E. Lockman,75
 Penobscot,Lagrange,State House,137,REP,Lawrence E. Lockman,139
 Penobscot,Passadumkeag,State House,137,REP,Lawrence E. Lockman,124
-Penobscot,T3 ND Twp                                                                                                                                            ,State House,137,REP,Lawrence E. Lockman,2
+Penobscot,T3 ND Twp,State House,137,REP,Lawrence E. Lockman,2
 Washington,Beddington,State House,137,REP,Lawrence E. Lockman,23
 Washington,Deblois,State House,137,REP,Lawrence E. Lockman,18
 Washington,Northfield,State House,137,REP,Lawrence E. Lockman,48
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                             ",State House,137,REP,Lawrence E. Lockman,8
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",State House,137,REP,Lawrence E. Lockman,8
 Washington,Wesley,State House,137,REP,Lawrence E. Lockman,29
 ,STATE UOCAVA,State House,137,REP,Lawrence E. Lockman,3
 Hancock,Amherst,State House,137,,Blanks,3
@@ -9273,20 +9273,20 @@ Hancock,Aurora,State House,137,,Blanks,2
 Hancock,Eastbrook,State House,137,,Blanks,1
 Hancock,Franklin,State House,137,,Blanks,3
 Hancock,Great Pond,State House,137,,Blanks,2
-Hancock,T22 MD Twp (Beddington & Osborn)                                                                                                                                       ,State House,137,,Blanks,1
+Hancock,T22 MD Twp (Beddington & Osborn),State House,137,,Blanks,1
 Penobscot,Bradford,State House,137,,Blanks,24
 Penobscot,Bradley,State House,137,,Blanks,26
 Penobscot,Edinburg,State House,137,,Blanks,3
-Penobscot,Grand Falls Twp (Burlington)                                                                                                                                  ,State House,137,,Blanks,1
+Penobscot,Grand Falls Twp (Burlington),State House,137,,Blanks,1
 Penobscot,Greenbush,State House,137,,Blanks,16
 Penobscot,Greenfield Twp,State House,137,,Blanks,2
 Penobscot,Lagrange,State House,137,,Blanks,6
 Penobscot,Passadumkeag,State House,137,,Blanks,1
-Penobscot,T3 ND Twp                                                                                                                                            ,State House,137,,Blanks,0
+Penobscot,T3 ND Twp,State House,137,,Blanks,0
 Washington,Beddington,State House,137,,Blanks,0
 Washington,Deblois,State House,137,,Blanks,2
 Washington,Northfield,State House,137,,Blanks,2
-Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)                                                                                                                             ",State House,137,,Blanks,0
+Washington,"T10 SD Twp (Cherryfield, Franklin & Milbridge)",State House,137,,Blanks,0
 Washington,Wesley,State House,137,,Blanks,1
 ,STATE UOCAVA,State House,137,,Blanks,0
 Washington,Addison,State House,138,DEM,Robert W. Alley Sr.,299
@@ -9389,17 +9389,17 @@ Penobscot,Burlington,State House,141,DEM,Donald M. Green,32
 Penobscot,Carroll Plt,State House,141,DEM,Donald M. Green,10
 Penobscot,Chester,State House,141,DEM,Donald M. Green,24
 Penobscot,Drew Plt,State House,141,DEM,Donald M. Green,3
-Penobscot,Kingman Twp (Webster Plt)                                                                                                                            ,State House,141,DEM,Donald M. Green,6
+Penobscot,Kingman Twp (Webster Plt),State House,141,DEM,Donald M. Green,6
 Penobscot,Lakeville,State House,141,DEM,Donald M. Green,17
 Penobscot,Lee,State House,141,DEM,Donald M. Green,86
 Penobscot,Lowell,State House,141,DEM,Donald M. Green,38
 Penobscot,Mattawamkeag,State House,141,DEM,Donald M. Green,78
-Penobscot,Prentiss Twp (Webster Plt)                                                                                                                                       ,State House,141,DEM,Donald M. Green,15
+Penobscot,Prentiss Twp (Webster Plt),State House,141,DEM,Donald M. Green,15
 Penobscot,Springfield,State House,141,DEM,Donald M. Green,19
 Penobscot,Webster Plt,State House,141,DEM,Donald M. Green,8
 Penobscot,Winn,State House,141,DEM,Donald M. Green,37
 Washington,Alexander,State House,141,DEM,Donald M. Green,68
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,State House,141,DEM,Donald M. Green,15
+Washington,Berry/Cathance/Marion Twps (East Machias),State House,141,DEM,Donald M. Green,15
 Washington,Cooper,State House,141,DEM,Donald M. Green,31
 Washington,Crawford,State House,141,DEM,Donald M. Green,12
 Washington,Danforth,State House,141,DEM,Donald M. Green,81
@@ -9407,7 +9407,7 @@ Washington,Dennysville (and Edumunds Twp),State House,141,DEM,Donald M. Green,10
 Washington,Grand Lake Stream Plt,State House,141,DEM,Donald M. Green,21
 Washington,Meddybemps,State House,141,DEM,Donald M. Green,26
 Washington,Princeton,State House,141,DEM,Donald M. Green,101
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                                   ,State House,141,DEM,Donald M. Green,0
+Washington,T26 ED BPP Twp (Wesley),State House,141,DEM,Donald M. Green,0
 Washington,Talmadge,State House,141,DEM,Donald M. Green,7
 Washington,Topsfield,State House,141,DEM,Donald M. Green,15
 Washington,Vanceboro,State House,141,DEM,Donald M. Green,26
@@ -9417,17 +9417,17 @@ Penobscot,Burlington,State House,141,REP,Kathy I. Javner,113
 Penobscot,Carroll Plt,State House,141,REP,Kathy I. Javner,58
 Penobscot,Chester,State House,141,REP,Kathy I. Javner,207
 Penobscot,Drew Plt,State House,141,REP,Kathy I. Javner,18
-Penobscot,Kingman Twp (Webster Plt)                                                                                                                            ,State House,141,REP,Kathy I. Javner,42
+Penobscot,Kingman Twp (Webster Plt),State House,141,REP,Kathy I. Javner,42
 Penobscot,Lakeville,State House,141,REP,Kathy I. Javner,38
 Penobscot,Lee,State House,141,REP,Kathy I. Javner,299
 Penobscot,Lowell,State House,141,REP,Kathy I. Javner,146
 Penobscot,Mattawamkeag,State House,141,REP,Kathy I. Javner,194
-Penobscot,Prentiss Twp (Webster Plt)                                                                                                                                       ,State House,141,REP,Kathy I. Javner,43
+Penobscot,Prentiss Twp (Webster Plt),State House,141,REP,Kathy I. Javner,43
 Penobscot,Springfield,State House,141,REP,Kathy I. Javner,97
 Penobscot,Webster Plt,State House,141,REP,Kathy I. Javner,21
 Penobscot,Winn,State House,141,REP,Kathy I. Javner,112
 Washington,Alexander,State House,141,REP,Kathy I. Javner,160
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,State House,141,REP,Kathy I. Javner,29
+Washington,Berry/Cathance/Marion Twps (East Machias),State House,141,REP,Kathy I. Javner,29
 Washington,Cooper,State House,141,REP,Kathy I. Javner,57
 Washington,Crawford,State House,141,REP,Kathy I. Javner,43
 Washington,Danforth,State House,141,REP,Kathy I. Javner,196
@@ -9435,7 +9435,7 @@ Washington,Dennysville (and Edumunds Twp),State House,141,REP,Kathy I. Javner,12
 Washington,Grand Lake Stream Plt,State House,141,REP,Kathy I. Javner,55
 Washington,Meddybemps,State House,141,REP,Kathy I. Javner,58
 Washington,Princeton,State House,141,REP,Kathy I. Javner,233
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                                   ,State House,141,REP,Kathy I. Javner,0
+Washington,T26 ED BPP Twp (Wesley),State House,141,REP,Kathy I. Javner,0
 Washington,Talmadge,State House,141,REP,Kathy I. Javner,23
 Washington,Topsfield,State House,141,REP,Kathy I. Javner,77
 Washington,Vanceboro,State House,141,REP,Kathy I. Javner,43
@@ -9445,17 +9445,17 @@ Penobscot,Burlington,State House,141,,Blanks,8
 Penobscot,Carroll Plt,State House,141,,Blanks,4
 Penobscot,Chester,State House,141,,Blanks,5
 Penobscot,Drew Plt,State House,141,,Blanks,0
-Penobscot,Kingman Twp (Webster Plt)                                                                                                                            ,State House,141,,Blanks,1
+Penobscot,Kingman Twp (Webster Plt),State House,141,,Blanks,1
 Penobscot,Lakeville,State House,141,,Blanks,1
 Penobscot,Lee,State House,141,,Blanks,15
 Penobscot,Lowell,State House,141,,Blanks,12
 Penobscot,Mattawamkeag,State House,141,,Blanks,18
-Penobscot,Prentiss Twp (Webster Plt)                                                                                                                                       ,State House,141,,Blanks,0
+Penobscot,Prentiss Twp (Webster Plt),State House,141,,Blanks,0
 Penobscot,Springfield,State House,141,,Blanks,9
 Penobscot,Webster Plt,State House,141,,Blanks,3
 Penobscot,Winn,State House,141,,Blanks,6
 Washington,Alexander,State House,141,,Blanks,14
-Washington,Berry/Cathance/Marion Twps (East Machias)                                                                                                                 ,State House,141,,Blanks,1
+Washington,Berry/Cathance/Marion Twps (East Machias),State House,141,,Blanks,1
 Washington,Cooper,State House,141,,Blanks,3
 Washington,Crawford,State House,141,,Blanks,2
 Washington,Danforth,State House,141,,Blanks,21
@@ -9463,7 +9463,7 @@ Washington,Dennysville (and Edumunds Twp),State House,141,,Blanks,21
 Washington,Grand Lake Stream Plt,State House,141,,Blanks,7
 Washington,Meddybemps,State House,141,,Blanks,6
 Washington,Princeton,State House,141,,Blanks,19
-Washington,T26 ED BPP Twp (Wesley)                                                                                                                                   ,State House,141,,Blanks,0
+Washington,T26 ED BPP Twp (Wesley),State House,141,,Blanks,0
 Washington,Talmadge,State House,141,,Blanks,2
 Washington,Topsfield,State House,141,,Blanks,8
 Washington,Vanceboro,State House,141,,Blanks,5
@@ -9495,30 +9495,30 @@ Penobscot,Woodville,State House,142,,Blanks,5
 ,STATE UOCAVA,State House,142,,Blanks,0
 Penobscot,East Millinocket,State House,143,REP,Galen S. Hale,312
 Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),State House,143,REP,Galen S. Hale,13
-Penobscot,Herseytown Twp (Stacyville)                                                                                                                                  ,State House,143,REP,Galen S. Hale,12
+Penobscot,Herseytown Twp (Stacyville),State House,143,REP,Galen S. Hale,12
 Penobscot,Millinocket Penobscot Twps,State House,143,REP,Galen S. Hale,48
 Penobscot,Medway,State House,143,REP,Galen S. Hale,231
 Penobscot,Millinocket,State House,143,REP,Galen S. Hale,686
 Penobscot,Patten,State House,143,REP,Galen S. Hale,211
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                   ",State House,143,REP,Galen S. Hale,6
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",State House,143,REP,Galen S. Hale,6
 ,STATE UOCAVA,State House,143,REP,Galen S. Hale,2
 Penobscot,East Millinocket,State House,143,DEM,Stephen S. Stanley,459
 Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),State House,143,DEM,Stephen S. Stanley,10
-Penobscot,Herseytown Twp (Stacyville)                                                                                                                                  ,State House,143,DEM,Stephen S. Stanley,3
+Penobscot,Herseytown Twp (Stacyville),State House,143,DEM,Stephen S. Stanley,3
 Penobscot,Millinocket Penobscot Twps,State House,143,DEM,Stephen S. Stanley,72
 Penobscot,Medway,State House,143,DEM,Stephen S. Stanley,321
 Penobscot,Millinocket,State House,143,DEM,Stephen S. Stanley,"1,137"
 Penobscot,Patten,State House,143,DEM,Stephen S. Stanley,172
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                   ",State House,143,DEM,Stephen S. Stanley,5
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",State House,143,DEM,Stephen S. Stanley,5
 ,STATE UOCAVA,State House,143,DEM,Stephen S. Stanley,6
 Penobscot,East Millinocket,State House,143,,Blanks,26
 Penobscot,Grindstone/Herseytown/Soldiertown Twps (Medway),State House,143,,Blanks,0
-Penobscot,Herseytown Twp (Stacyville)                                                                                                                                  ,State House,143,,Blanks,1
+Penobscot,Herseytown Twp (Stacyville),State House,143,,Blanks,1
 Penobscot,Millinocket Penobscot Twps,State House,143,,Blanks,3
 Penobscot,Medway,State House,143,,Blanks,20
 Penobscot,Millinocket,State House,143,,Blanks,52
 Penobscot,Patten,State House,143,,Blanks,10
-Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)                                                                                                                   ",State House,143,,Blanks,0
+Penobscot,"T5 R7, T5 R8, T6 R8 Twps (Mount Chase)",State House,143,,Blanks,0
 ,STATE UOCAVA,State House,143,,Blanks,0
 Aroostook,Amity,State House,144,DEM,Ted L. Sussman,35
 Aroostook,Benedicta & Silver Ridge Twps,State House,144,DEM,Ted L. Sussman,42
@@ -9531,7 +9531,7 @@ Aroostook,Molunkus Twp (Mattawamkeag & Medway),State House,144,DEM,Ted L. Sussma
 Aroostook,Macwahoc Plt,State House,144,DEM,Ted L. Sussman,9
 Aroostook,Orient,State House,144,DEM,Ted L. Sussman,24
 Aroostook,Reed Plt,State House,144,DEM,Ted L. Sussman,31
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                      ,State House,144,DEM,Ted L. Sussman,1
+Aroostook,T4 R3 Twp (Island Falls),State House,144,DEM,Ted L. Sussman,1
 Aroostook,Weston,State House,144,DEM,Ted L. Sussman,69
 ,STATE UOCAVA,State House,144,DEM,Ted L. Sussman,8
 Aroostook,Amity,State House,144,REP,Gregory Lewis Swallow,58
@@ -9545,7 +9545,7 @@ Aroostook,Molunkus Twp (Mattawamkeag & Medway),State House,144,REP,Gregory Lewis
 Aroostook,Macwahoc Plt,State House,144,REP,Gregory Lewis Swallow,20
 Aroostook,Orient,State House,144,REP,Gregory Lewis Swallow,41
 Aroostook,Reed Plt,State House,144,REP,Gregory Lewis Swallow,29
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                      ,State House,144,REP,Gregory Lewis Swallow,0
+Aroostook,T4 R3 Twp (Island Falls),State House,144,REP,Gregory Lewis Swallow,0
 Aroostook,Weston,State House,144,REP,Gregory Lewis Swallow,63
 ,STATE UOCAVA,State House,144,REP,Gregory Lewis Swallow,3
 Aroostook,Amity,State House,144,,Blanks,2
@@ -9559,13 +9559,13 @@ Aroostook,Molunkus Twp (Mattawamkeag & Medway),State House,144,,Blanks,1
 Aroostook,Macwahoc Plt,State House,144,,Blanks,0
 Aroostook,Orient,State House,144,,Blanks,0
 Aroostook,Reed Plt,State House,144,,Blanks,2
-Aroostook,T4 R3 Twp (Island Falls)                                                                                                                                      ,State House,144,,Blanks,0
+Aroostook,T4 R3 Twp (Island Falls),State House,144,,Blanks,0
 Aroostook,Weston,State House,144,,Blanks,2
 ,STATE UOCAVA,State House,144,,Blanks,0
 Aroostook,Bridgewater,State House,145,DEM,Laura A. Farnsworth,75
 Aroostook,Crystal,State House,145,DEM,Laura A. Farnsworth,39
 Aroostook,Dyer Brook,State House,145,DEM,Laura A. Farnsworth,41
-Aroostook,E TWP (Blaine)                                                                                                                                        ,State House,145,DEM,Laura A. Farnsworth,6
+Aroostook,E TWP (Blaine),State House,145,DEM,Laura A. Farnsworth,6
 Aroostook,Hammond,State House,145,DEM,Laura A. Farnsworth,10
 Aroostook,Hersey,State House,145,DEM,Laura A. Farnsworth,6
 Aroostook,Island Falls,State House,145,DEM,Laura A. Farnsworth,184
@@ -9579,15 +9579,15 @@ Aroostook,New Limerick,State House,145,DEM,Laura A. Farnsworth,85
 Aroostook,Oakfield,State House,145,DEM,Laura A. Farnsworth,101
 Aroostook,Sherman,State House,145,DEM,Laura A. Farnsworth,107
 Aroostook,Smyrna,State House,145,DEM,Laura A. Farnsworth,39
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                                       ,State House,145,DEM,Laura A. Farnsworth,7
-Aroostook,TD R2 TWP                                                                                                                                             ,State House,145,DEM,Laura A. Farnsworth,4
+Aroostook,T11 R4 WELS Twp (Castle Hill),State House,145,DEM,Laura A. Farnsworth,7
+Aroostook,TD R2 TWP,State House,145,DEM,Laura A. Farnsworth,4
 Penobscot,Mount Chase,State House,145,DEM,Laura A. Farnsworth,39
 Penobscot,Stacyville,State House,145,DEM,Laura A. Farnsworth,44
 ,STATE UOCAVA,State House,145,DEM,Laura A. Farnsworth,1
 Aroostook,Bridgewater,State House,145,REP,Chris A. Johansen,155
 Aroostook,Crystal,State House,145,REP,Chris A. Johansen,70
 Aroostook,Dyer Brook,State House,145,REP,Chris A. Johansen,63
-Aroostook,E TWP (Blaine)                                                                                                                                        ,State House,145,REP,Chris A. Johansen,24
+Aroostook,E TWP (Blaine),State House,145,REP,Chris A. Johansen,24
 Aroostook,Hammond,State House,145,REP,Chris A. Johansen,19
 Aroostook,Hersey,State House,145,REP,Chris A. Johansen,22
 Aroostook,Island Falls,State House,145,REP,Chris A. Johansen,138
@@ -9601,15 +9601,15 @@ Aroostook,New Limerick,State House,145,REP,Chris A. Johansen,200
 Aroostook,Oakfield,State House,145,REP,Chris A. Johansen,190
 Aroostook,Sherman,State House,145,REP,Chris A. Johansen,244
 Aroostook,Smyrna,State House,145,REP,Chris A. Johansen,80
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                                       ,State House,145,REP,Chris A. Johansen,7
-Aroostook,TD R2 TWP                                                                                                                                             ,State House,145,REP,Chris A. Johansen,1
+Aroostook,T11 R4 WELS Twp (Castle Hill),State House,145,REP,Chris A. Johansen,7
+Aroostook,TD R2 TWP,State House,145,REP,Chris A. Johansen,1
 Penobscot,Mount Chase,State House,145,REP,Chris A. Johansen,50
 Penobscot,Stacyville,State House,145,REP,Chris A. Johansen,95
 ,STATE UOCAVA,State House,145,REP,Chris A. Johansen,2
 Aroostook,Bridgewater,State House,145,,Blanks,9
 Aroostook,Crystal,State House,145,,Blanks,3
 Aroostook,Dyer Brook,State House,145,,Blanks,6
-Aroostook,E TWP (Blaine)                                                                                                                                        ,State House,145,,Blanks,2
+Aroostook,E TWP (Blaine),State House,145,,Blanks,2
 Aroostook,Hammond,State House,145,,Blanks,1
 Aroostook,Hersey,State House,145,,Blanks,2
 Aroostook,Island Falls,State House,145,,Blanks,7
@@ -9623,8 +9623,8 @@ Aroostook,New Limerick,State House,145,,Blanks,10
 Aroostook,Oakfield,State House,145,,Blanks,7
 Aroostook,Sherman,State House,145,,Blanks,12
 Aroostook,Smyrna,State House,145,,Blanks,4
-Aroostook,T11 R4 WELS Twp (Castle Hill)                                                                                                                                       ,State House,145,,Blanks,1
-Aroostook,TD R2 TWP                                                                                                                                             ,State House,145,,Blanks,0
+Aroostook,T11 R4 WELS Twp (Castle Hill),State House,145,,Blanks,1
+Aroostook,TD R2 TWP,State House,145,,Blanks,0
 Penobscot,Mount Chase,State House,145,,Blanks,2
 Penobscot,Stacyville,State House,145,,Blanks,12
 ,STATE UOCAVA,State House,145,,Blanks,0
@@ -9667,7 +9667,7 @@ Aroostook,Presque Isle,State House,147,REP,Harold L. Stewart III,"1,735"
 ,STATE UOCAVA,State House,147,REP,Harold L. Stewart III,2
 Aroostook,Presque Isle,State House,147,,Blanks,97
 ,STATE UOCAVA,State House,147,,Blanks,0
-Aroostook,Connor Twp                                                                                                                                          ,State House,148,DEM,David H. McCrea,84
+Aroostook,Connor Twp,State House,148,DEM,David H. McCrea,84
 Aroostook,Caswell,State House,148,DEM,David H. McCrea,91
 Aroostook,Cyr Plt,State House,148,DEM,David H. McCrea,32
 Aroostook,Easton,State House,148,DEM,David H. McCrea,364
@@ -9677,7 +9677,7 @@ Aroostook,Limestone,State House,148,DEM,David H. McCrea,437
 Aroostook,Presque Isle,State House,148,DEM,David H. McCrea,154
 Aroostook,Stockholm,State House,148,DEM,David H. McCrea,78
 ,STATE UOCAVA,State House,148,DEM,David H. McCrea,5
-Aroostook,Connor Twp                                                                                                                                          ,State House,148,REP,Katherine Louise Schupbach,47
+Aroostook,Connor Twp,State House,148,REP,Katherine Louise Schupbach,47
 Aroostook,Caswell,State House,148,REP,Katherine Louise Schupbach,19
 Aroostook,Cyr Plt,State House,148,REP,Katherine Louise Schupbach,16
 Aroostook,Easton,State House,148,REP,Katherine Louise Schupbach,206
@@ -9687,7 +9687,7 @@ Aroostook,Limestone,State House,148,REP,Katherine Louise Schupbach,205
 Aroostook,Presque Isle,State House,148,REP,Katherine Louise Schupbach,131
 Aroostook,Stockholm,State House,148,REP,Katherine Louise Schupbach,50
 ,STATE UOCAVA,State House,148,REP,Katherine Louise Schupbach,4
-Aroostook,Connor Twp                                                                                                                                          ,State House,148,,Blanks,5
+Aroostook,Connor Twp,State House,148,,Blanks,5
 Aroostook,Caswell,State House,148,,Blanks,4
 Aroostook,Cyr Plt,State House,148,,Blanks,1
 Aroostook,Easton,State House,148,,Blanks,11
@@ -9711,8 +9711,8 @@ Aroostook,Grand Isle,State House,150,REP,Aaron Cyr,79
 Aroostook,Madawaska,State House,150,REP,Aaron Cyr,696
 Aroostook,Madawaska Lake,State House,150,REP,Aaron Cyr,33
 Aroostook,Saint Agatha/Sinclair,State House,150,REP,Aaron Cyr,158
-Aroostook,T15 R6 Twp (Eagle Lake)                                                                                                                                        ,State House,150,REP,Aaron Cyr,5
-Aroostook,T17 R3 (Van Buren)                                                                                                                             ,State House,150,REP,Aaron Cyr,4
+Aroostook,T15 R6 Twp (Eagle Lake),State House,150,REP,Aaron Cyr,5
+Aroostook,T17 R3 (Van Buren),State House,150,REP,Aaron Cyr,4
 Aroostook,Van Buren,State House,150,REP,Aaron Cyr,251
 ,STATE UOCAVA,State House,150,REP,Aaron Cyr,4
 Aroostook,Cross Lake Twp (New Canada),State House,150,DEM,Roland Daniel Martin,62
@@ -9721,8 +9721,8 @@ Aroostook,Grand Isle,State House,150,DEM,Roland Daniel Martin,108
 Aroostook,Madawaska,State House,150,DEM,Roland Daniel Martin,"1,014"
 Aroostook,Madawaska Lake,State House,150,DEM,Roland Daniel Martin,51
 Aroostook,Saint Agatha/Sinclair,State House,150,DEM,Roland Daniel Martin,321
-Aroostook,T15 R6 Twp (Eagle Lake)                                                                                                                                        ,State House,150,DEM,Roland Daniel Martin,1
-Aroostook,T17 R3 (Van Buren)                                                                                                                             ,State House,150,DEM,Roland Daniel Martin,11
+Aroostook,T15 R6 Twp (Eagle Lake),State House,150,DEM,Roland Daniel Martin,1
+Aroostook,T17 R3 (Van Buren),State House,150,DEM,Roland Daniel Martin,11
 Aroostook,Van Buren,State House,150,DEM,Roland Daniel Martin,428
 ,STATE UOCAVA,State House,150,DEM,Roland Daniel Martin,7
 Aroostook,Cross Lake Twp (New Canada),State House,150,,Blanks,2
@@ -9731,8 +9731,8 @@ Aroostook,Grand Isle,State House,150,,Blanks,9
 Aroostook,Madawaska,State House,150,,Blanks,50
 Aroostook,Madawaska Lake,State House,150,,Blanks,4
 Aroostook,Saint Agatha/Sinclair,State House,150,,Blanks,12
-Aroostook,T15 R6 Twp (Eagle Lake)                                                                                                                                        ,State House,150,,Blanks,0
-Aroostook,T17 R3 (Van Buren)                                                                                                                             ,State House,150,,Blanks,0
+Aroostook,T15 R6 Twp (Eagle Lake),State House,150,,Blanks,0
+Aroostook,T17 R3 (Van Buren),State House,150,,Blanks,0
 Aroostook,Van Buren,State House,150,,Blanks,48
 ,STATE UOCAVA,State House,150,,Blanks,0
 Aroostook,Allagash,State House,151,REP,Kevin A. Bushey,51
@@ -9743,11 +9743,11 @@ Aroostook,Garfield Plt,State House,151,REP,Kevin A. Bushey,18
 Aroostook,Masardis,State House,151,REP,Kevin A. Bushey,46
 Aroostook,Nashville Plt,State House,151,REP,Kevin A. Bushey,10
 Aroostook,New Canada,State House,151,REP,Kevin A. Bushey,52
-Aroostook,Oxbow North Twp (Masardis)                                                                                                                                  ,State House,151,REP,Kevin A. Bushey,23
+Aroostook,Oxbow North Twp (Masardis),State House,151,REP,Kevin A. Bushey,23
 Aroostook,Portage Lake,State House,151,REP,Kevin A. Bushey,117
 Aroostook,Saint Francis,State House,151,REP,Kevin A. Bushey,50
 Aroostook,Saint John Plt,State House,151,REP,Kevin A. Bushey,43
-Aroostook,T12 R13 & T9 R8 WELS (Ashland)                                                                                                                               ,State House,151,REP,Kevin A. Bushey,1
+Aroostook,T12 R13 & T9 R8 WELS (Ashland),State House,151,REP,Kevin A. Bushey,1
 Aroostook,Wallagrass,State House,151,REP,Kevin A. Bushey,64
 Aroostook,Winterville Plt,State House,151,REP,Kevin A. Bushey,59
 ,STATE UOCAVA,State House,151,REP,Kevin A. Bushey,1
@@ -9759,11 +9759,11 @@ Aroostook,Garfield Plt,State House,151,DEM,John L. Martin,16
 Aroostook,Masardis,State House,151,DEM,John L. Martin,43
 Aroostook,Nashville Plt,State House,151,DEM,John L. Martin,6
 Aroostook,New Canada,State House,151,DEM,John L. Martin,62
-Aroostook,Oxbow North Twp (Masardis)                                                                                                                                  ,State House,151,DEM,John L. Martin,9
+Aroostook,Oxbow North Twp (Masardis),State House,151,DEM,John L. Martin,9
 Aroostook,Portage Lake,State House,151,DEM,John L. Martin,84
 Aroostook,Saint Francis,State House,151,DEM,John L. Martin,162
 Aroostook,Saint John Plt,State House,151,DEM,John L. Martin,86
-Aroostook,T12 R13 & T9 R8 WELS (Ashland)                                                                                                                               ,State House,151,DEM,John L. Martin,2
+Aroostook,T12 R13 & T9 R8 WELS (Ashland),State House,151,DEM,John L. Martin,2
 Aroostook,Wallagrass,State House,151,DEM,John L. Martin,172
 Aroostook,Winterville Plt,State House,151,DEM,John L. Martin,42
 ,STATE UOCAVA,State House,151,DEM,John L. Martin,7
@@ -9775,11 +9775,11 @@ Aroostook,Garfield Plt,State House,151,,Blanks,0
 Aroostook,Masardis,State House,151,,Blanks,4
 Aroostook,Nashville Plt,State House,151,,Blanks,0
 Aroostook,New Canada,State House,151,,Blanks,2
-Aroostook,Oxbow North Twp (Masardis)                                                                                                                                  ,State House,151,,Blanks,0
+Aroostook,Oxbow North Twp (Masardis),State House,151,,Blanks,0
 Aroostook,Portage Lake,State House,151,,Blanks,11
 Aroostook,Saint Francis,State House,151,,Blanks,7
 Aroostook,Saint John Plt,State House,151,,Blanks,0
-Aroostook,T12 R13 & T9 R8 WELS (Ashland)                                                                                                                               ,State House,151,,Blanks,0
+Aroostook,T12 R13 & T9 R8 WELS (Ashland),State House,151,,Blanks,0
 Aroostook,Wallagrass,State House,151,,Blanks,7
 Aroostook,Winterville Plt,State House,151,,Blanks,4
 ,STATE UOCAVA,State House,151,,Blanks,1

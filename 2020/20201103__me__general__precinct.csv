@@ -10240,13 +10240,13 @@ York,Lebanon,State House,20,,blank,221
 York,Shapleigh,State House,20,,blank,33
 York,STATE UOCAVA,State House,20,,blank,1
 York,Total,State House,20,,blank,321
-York,Alfred,State House,21,DEM,Clifford Krolick ,700
-York,Limerick,State House,21,DEM,Clifford Krolick ,360
-York,Newfield,State House,21,DEM,Clifford Krolick ,286
-York,Parsonsfield,State House,21,DEM,Clifford Krolick ,299
-York,Shapleigh,State House,21,DEM,Clifford Krolick ,382
-York,STATE UOCAVA,State House,21,DEM,Clifford Krolick ,10
-York,Total,State House,21,DEM,Clifford Krolick ,2046
+York,Alfred,State House,21,DEM,Clifford Krolick,700
+York,Limerick,State House,21,DEM,Clifford Krolick,360
+York,Newfield,State House,21,DEM,Clifford Krolick,286
+York,Parsonsfield,State House,21,DEM,Clifford Krolick,299
+York,Shapleigh,State House,21,DEM,Clifford Krolick,382
+York,STATE UOCAVA,State House,21,DEM,Clifford Krolick,10
+York,Total,State House,21,DEM,Clifford Krolick,2046
 York,Alfred,State House,21,REP,Heidi Sampson,1214
 York,Limerick,State House,21,REP,Heidi Sampson,568
 York,Newfield,State House,21,REP,Heidi Sampson,645
@@ -11441,7 +11441,7 @@ Franklin,Phillips,State House,112,DEM,Peter Bourgelais,217
 Franklin,Sandy River Plt,State House,112,DEM,Peter Bourgelais,49
 Franklin,Freeman Twp,State House,112,DEM,Peter Bourgelais,27
 Franklin,Weld,State House,112,DEM,Peter Bourgelais,92
-Franklin,Washington Twp ,State House,112,DEM,Peter Bourgelais,2
+Franklin,Washington Twp,State House,112,DEM,Peter Bourgelais,2
 Somerset,Anson,State House,112,DEM,Peter Bourgelais,353
 Somerset,New Portland,State House,112,DEM,Peter Bourgelais,173
 Somerset,Starks,State House,112,DEM,Peter Bourgelais,119
@@ -11456,7 +11456,7 @@ Franklin,Phillips,State House,112,REP,Thomas Skolfield,402
 Franklin,Sandy River Plt,State House,112,REP,Thomas Skolfield,47
 Franklin,Freeman Twp,State House,112,REP,Thomas Skolfield,97
 Franklin,Weld,State House,112,REP,Thomas Skolfield,211
-Franklin,Washington Twp ,State House,112,REP,Thomas Skolfield,11
+Franklin,Washington Twp,State House,112,REP,Thomas Skolfield,11
 Somerset,Anson,State House,112,REP,Thomas Skolfield,808
 Somerset,New Portland,State House,112,REP,Thomas Skolfield,288
 Somerset,Starks,State House,112,REP,Thomas Skolfield,248
@@ -11471,7 +11471,7 @@ Franklin,Phillips,State House,112,,blank,49
 Franklin,Sandy River Plt,State House,112,,blank,7
 Franklin,Freeman Twp,State House,112,,blank,6
 Franklin,Weld,State House,112,,blank,6
-Franklin,Washington Twp ,State House,112,,blank,0
+Franklin,Washington Twp,State House,112,,blank,0
 Somerset,Anson,State House,112,,blank,77
 Somerset,New Portland,State House,112,,blank,28
 Somerset,Starks,State House,112,,blank,16
@@ -11998,7 +11998,7 @@ MAINE,Total,State House,136,,blank,219
 Hancock,Amherst,State House,137,DEM,Maxwell Coolidge,65
 Hancock,Aurora,State House,137,DEM,Maxwell Coolidge,28
 Hancock,Eastbrook,State House,137,DEM,Maxwell Coolidge,76
-Hancock,Franklin/T9 T10 SD ,State House,137,DEM,Maxwell Coolidge,430
+Hancock,Franklin/T9 T10 SD,State House,137,DEM,Maxwell Coolidge,430
 Hancock,Great Pond,State House,137,DEM,Maxwell Coolidge,17
 Hancock,T10 SD Twp,State House,137,DEM,Maxwell Coolidge,3
 Hancock,T22 MD Twp,State House,137,DEM,Maxwell Coolidge,3
@@ -12020,7 +12020,7 @@ MAINE,Total,State House,137,DEM,Maxwell Coolidge,1558
 Hancock,Amherst,State House,137,REP,Meldon Carmichael,109
 Hancock,Aurora,State House,137,REP,Meldon Carmichael,37
 Hancock,Eastbrook,State House,137,REP,Meldon Carmichael,128
-Hancock,Franklin/T9 T10 SD ,State House,137,REP,Meldon Carmichael,385
+Hancock,Franklin/T9 T10 SD,State House,137,REP,Meldon Carmichael,385
 Hancock,Great Pond,State House,137,REP,Meldon Carmichael,23
 Hancock,T10 SD Twp,State House,137,REP,Meldon Carmichael,10
 Hancock,T22 MD Twp,State House,137,REP,Meldon Carmichael,5
@@ -12042,7 +12042,7 @@ MAINE,Total,State House,137,REP,Meldon Carmichael,3044
 Hancock,Amherst,State House,137,,blank,17
 Hancock,Aurora,State House,137,,blank,7
 Hancock,Eastbrook,State House,137,,blank,20
-Hancock,Franklin/T9 T10 SD ,State House,137,,blank,56
+Hancock,Franklin/T9 T10 SD,State House,137,,blank,56
 Hancock,Great Pond,State House,137,,blank,3
 Hancock,T10 SD Twp,State House,137,,blank,1
 Hancock,T22 MD Twp,State House,137,,blank,0
@@ -13559,12 +13559,12 @@ Cumberland,Gorham 1-2,State Senator,SD30,REP,Sara Rivard,577
 Cumberland,Gorham 2,State Senator,SD30,REP,Sara Rivard,1007
 Cumberland,Gorham Abs,State Senator,SD30,REP,Sara Rivard,3202
 Cumberland,Gorham city,State Senator,SD30,REP,Sara Rivard,5348
-Cumberland,Gorham 2,State House ,HD026,DEM,Maureen Terry,488
-Cumberland,Gorham Abs,State House ,HD026,DEM,Maureen Terry,2419
-Cumberland,Gorham city,State House ,HD026,DEM,Maureen Terry,2907
-Cumberland,Gorham 2,State House ,HD026,REP,George Vercelli,898
-Cumberland,Gorham Abs,State House ,HD026,REP,George Vercelli,1265
-Cumberland,Gorham city,State House ,HD026,REP,George Vercelli,2163
+Cumberland,Gorham 2,State House,HD026,DEM,Maureen Terry,488
+Cumberland,Gorham Abs,State House,HD026,DEM,Maureen Terry,2419
+Cumberland,Gorham city,State House,HD026,DEM,Maureen Terry,2907
+Cumberland,Gorham 2,State House,HD026,REP,George Vercelli,898
+Cumberland,Gorham Abs,State House,HD026,REP,George Vercelli,1265
+Cumberland,Gorham city,State House,HD026,REP,George Vercelli,2163
 Cumberland,Gorham 1-1,State House,27,DEM,Kyle Bailey,347
 Cumberland,Gorham 1-2,State House,27,DEM,Kyle Bailey,274
 Cumberland,Gorham Abs,State House,27,DEM,Kyle Bailey,2691
